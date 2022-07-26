@@ -3,4 +3,3 @@ Este curso corto esta diseñado para obtener los conceptos básicos de los tipos
 
 De acuerdo con la National Fire Protection Association (NFPA), organización que crea y mantiene las normas para la prevención contra incendio, actualmente se clasifican 8 tipos diferentes de sistemas de extinción y control de fuego tales como, agentes limpios, aerosoles, nebulización, etc. Para cada uno de estos tipos de sistemas se profundizará en su respectiva norma y carctaerísticas a tener en cuenta. 
 
-hfdhfadkajdas
