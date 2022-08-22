@@ -13,4 +13,4 @@ Las definiciones que se presentarán, son aplicadas a todas las secciones y son 
 
 **6. Norma.** Un documento, cuyo texto principal contiene solamente disposiciones mandatorias usando la palabra "deberá" para indicar requisitos y que está en un formato generalmente adecuado para referencias mandatorias por otra norma o código o para su adopción dentro de la ley. Las disposiciones no mandatorias deberán ubicarse en un apéndice o anexo, pie de página, o nota en caracteres pequeños y no deben ser considerados parte de los requisitos de una norma. 
 
-En algunas secciones se establecerán las definiciones particulares para cada tipo de sistema de red contra incendio. 
+En algunas secciones se establecerán las definiciones particulares para cada tipo de sistema de red contra incendio ya que pueden varias según su terminologia.
