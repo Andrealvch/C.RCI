@@ -1,0 +1,1 @@
+En esta actividad se describen los sistemas de redes 
