@@ -15,5 +15,5 @@ Las definiciones que se presentarán, son aplicadas a todas las secciones y son 
 
 En algunas secciones se establecerán las definiciones particulares para cada tipo de sistema de red contra incendio, ya que pueden varias según su terminología.
 
-| [:house: Inicio](https://github.com/Andrealvch/C.RCI/wiki) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](https://github.com/Andrealvch/C.RCI/tree/main/Section01/Sistemas%20de%20redes) |
+| [:house: Inicio](https://github.com/Andrealvch/C.RCI/wiki) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](https://github.com/Andrealvch/C.RCI/tree/main/Section01/Normas%20utilizadas%20para%20el%20dise%C3%B1o%20de%20los%20sistemas%20de%20red%20contra%20incendio) |
 | ------------------------------------------------------ |-------------- |--------------------------------------------------------------------------------------------|
