@@ -1,4 +1,4 @@
-# Definiciones 
+## Definiciones 
 Las definiciones que se presentarán, son aplicadas a todas las secciones y son tomadas explícitamente de las diferentes normativas de sistemas de red contra incendio de acuerdo con las definicones oficiales de la NFPA. 
 
 **1. Aprobado.** Aceptable para la autoridad competente.
