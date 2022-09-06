@@ -1,5 +1,7 @@
 ## Normas utilizadas para el diseño de los sistemas de red contra incendio 
 Keywords: `NSR10` `NFPA`
 
-La National Fire Protection Association (NFPA) es la organización encargada de crear y actualizar las normas y requisitos 
+La National Fire Protection Association (NFPA) es la organización encargada de crear y actualizar las normas para la protección contra incendio. Especifica los requerimientos de capacitaciones al personal que diseñe, construya y opere, de la instalación de los sistemas y del uso de los medios de protección. Los estándares presentados por esta organización 
+ son conocidos con National Fire Codes, en los que recomienda prácticas seguras que desarrolla el personal experto en el control de incendio. 
 
+En Colombia la Norma de Sismo Resistencia en Colombia (NSR10), clasifica en el título K, el grupo de ocupación de la edificación, el riesgo que comprende para la seguridad y la preservación de la vida humana. El título J de la misma norma, da los requisitos mínimos de protección contra incendio en edificaciones de acuerdo con la clasificación generada en el capítulo K. Con los parámetros definidos en estos dos títulos normativos, es posible definir el alcance del diseño del sistema de la red contra incendio, establecer una ruta de trabajo con base en el sistema adecuado para los espacios dentro de la edificación y las prioridades de la misma.  
