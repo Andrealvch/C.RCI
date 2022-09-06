@@ -12,34 +12,46 @@ A continuación se presenta la tabla de clasificación de un edificio con base e
 Grupos y subgrupos de ocupación
 </div>
 
-| Grupos y sugrupos de ocupación | Clasificación | Sección del Reglamento  |
-|---|---|---|
-| A | ALMACENAMIENTO | K.2.2 |
-| A-1 | Riesgo moderado  |  |
-| A-2 | Riesgo bajo  |  |
-| C | COMERCIAL  | K.2.3 |
-| C-1 | Servicios  |  |
-| C-2 | Bienes  |  |
-| E | ESPECIALES | K.2.4 |
-| F | FABRIL E INDUSTRIAL  | K.2.5 |
-| F-1 | Riesgo moderado |  |
-| F-2 | Riesgo bajo  |  |
-| I | INSTITUCIONAL | K.2.6 |
-| I-1 | Reclusión |  |
-| I-2 | Salud o incapacidad  |  |
-| I-3 | Educación |  |
-| I-4 | Seguridad pública |  |
-| I-5 | Servicio público  |  |
-| L | LUGARES DE REUNIÓN  | K.2.7 |
-| L-1 | Deportivos |  |
-| L-2 | Culturales y teatros |  |
-| L-3 | Sociales y recreativos |  |
-| L-4 | Religiosos  |  |
-| L-5 | De transporte  |  |
-| M | MIXTO Y OTROS | K.2.8 |
-| P | ALTA PELIGROSIDAD | K.2.9 |
-| R | RESIDENCIAL | K.2.10 |
-| R-1 | Unifamiliar y bifamiliar  |  |
-| R-2 | Multifamiliar |  |
-| R-3 | Hoteles |  |
-| T | TEMPORAL | K.2.11 |
+| Grupos y subgrupos de ocupación | Clasificación | Sección del Reglamento. Definición | Reglamento detección | Reglamento extinción  |
+| --- | --- | --- | --- | --- |
+| A | ALMACENAMIENTO | K.2.2 | J.4.2-1 | J.4.3.1 |
+| A-1 | Riesgo moderado  |  |  |  |
+| A-2 | Riesgo bajo  |  |  |  |
+| C | COMERCIAL  | K.2.3 | J.4.2-1 | J.4.3.2 |
+| C-1 | Servicios  |  |  |  |
+| C-2 | Bienes  |  |  |  |
+| E | ESPECIALES | K.2.4 | J.4.2-1 |  |
+| F | FABRIL E INDUSTRIAL  | K.2.5 | J.4.2-1 | J.4.3.3 |
+| F-1 | Riesgo moderado |  |  |  |
+| F-2 | Riesgo bajo  |  |  |  |
+| I | INSTITUCIONAL | K.2.6 | J.4.2-1 | J.4.3.4 |
+| I-1 | Reclusión |  |  |  |
+| I-2 | Salud o incapacidad  |  |  |  |
+| I-3 | Educación |  |  |  |
+| I-4 | Seguridad pública |  |  |  |
+| I-5 | Servicio público  |  |  |  |
+| L | LUGARES DE REUNIÓN  | K.2.7 | J.4.2-1 | J.4.3.5 |
+| L-1 | Deportivos |  |  |  |
+| L-2 | Culturales y teatros |  |  |  |
+| L-3 | Sociales y recreativos |  |  |  |
+| L-4 | Religiosos  |  |  |  |
+| L-5 | De transporte  |  |  |  |
+| M | MIXTO Y OTROS | K.2.8 | J.4.2-1 | J.4.3.6 |
+| P | ALTA PELIGROSIDAD | K.2.9 | J.4.2-1 | J.4.3.7 |
+| R | RESIDENCIAL | K.2.10 | J.4.2-1 |  |
+| R-1 | Unifamiliar y bifamiliar  |  |  |  |
+| R-2 | Multifamiliar |  |  | J.4.3.8 |
+| R-3 | Hoteles |  |  | J.4.3.9 |
+| T | TEMPORAL | K.2.11 | J.4.2-1 |  |
+
+
+<div align="center"> <em> Información tomada de la NSR10 Título J </em> </div>
+
+En el título K, capítulo K.2 está la descripción detallada de referencia para clasificar las edificaciones por grupos de ocupación. A continuación se presentan las características generales para identificar el grupo de ocupación.
+
+<b> K.2.2 Almacenamiento (A) </b>
+
+Para este grupo clasifican las edificaciones utilizadas como almacenamiento de mercancías, carga o bienes. A su vez este grupo tiene los siguientes subgrupos:
+1. Riesgo moderado (A-1)
+
+2. 
