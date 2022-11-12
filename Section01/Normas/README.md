@@ -62,4 +62,20 @@ Las edificaciones que se clasifican en este grupo son las destinadas a la realiz
 
 1. Servicios (C-1). Clasifican las edificaciones donde se realizan transacciones y se ofrecen servicios profesionales o comerciales. Ej: bancos, salas de belleza, aseguradoras, oficinas, consultorios, otros similares.
 
-2. Bienes y productos (C-2).--- Clasifican los espacios utilizados para exhibición, venta y comercialización de bienes, productos y mercancías 
+2. Bienes y productos (C-2).--- Clasifican los espacios utilizados para exhibición, venta y comercialización de bienes, productos y mercancías. 
+
+<b> K.2.4 Especiales (E) </b>
+
+Se clasifican las edificaciones de construcción que no se clasifican en ninguno de los otros grupos de ocupación específicos y qeu tengan características especiales. 
+
+<b> K.2.5 Fabril e industrial (F) </b>
+
+Dentro de este grupo, clasifican las edificaciones utilizadas en la explotación de materia prima, fabricación, ensamblaje, manufacturación, procesamiento o transformación de productos, materiales o energía. Se clasifican en los subgrupos:
+
+1. Riesgo moderado (F1). Clasifican las edificaciones los procesos de explotación, fabricación, ensamblaje, manufacturación o procesamiento, que representan un riesgo moderado de incendio con base en los materiales utilizados en los procesos.
+
+2. Riesgo bajo (F2). Clasifican las edificaciones los procesos de explotación, fabricación, ensamblaje, manufacturación o procesamiento, que representan un riesgo bajo de incendio con base en los materiales utilizados en los procesos.
+
+<b> K.2.6 Institucional (I) </b>
+
+Dentro de este grupo clasifican las edificaciones utilizadas para reclusión de personas con limitaciones, penitenciarias o correccionales, con propósitos educativos. Tambien clasifican las edificaciones de uso...  
