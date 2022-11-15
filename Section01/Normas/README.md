@@ -78,4 +78,53 @@ Dentro de este grupo, clasifican las edificaciones utilizadas en la explotación
 
 <b> K.2.6 Institucional (I) </b>
 
-Dentro de este grupo clasifican las edificaciones utilizadas para reclusión de personas con limitaciones, penitenciarias o correccionales, con propósitos educativos. Tambien clasifican las edificaciones de uso...  
+Dentro de este grupo clasifican las edificaciones utilizadas para reclusión de personas con limitaciones, penitenciarias o correccionales, con propósitos educativos. Tambien clasifican las edificaciones utilizadas para la prestación de servicios públicos y administrativos necesarios para el funcionamiento de las ciudades. Se devide en los siguientes subgrupos.
+
+1. Institucional de reclusión (I-1). Clasifican las edificaciones utilizadas en la reclusión de personas.
+
+2. Institucional de salud o incapacidad (I-2). Dentro de este subgrupo clasifican las edificaciones que presentan servicio en deficiencias de salud o limitaciones físicas.
+
+3. Institucional de educación (I-3). Clasifican los espacios utilizados para la finalidad educativa y de instrucción. 
+
+4. Institucional de seguridad pública (I-4). Las edificaciones que atienden mergencias y preservan el orden público y seguridad de las personas.
+
+5. Institucional de servicio público (I-5). Se encuentran las edificaciones de uso administraivo y prestación de servicios públicos.
+
+<b> K.2.7 Lugares de reunión (L) </b>
+
+Cabe dentro de esta clasifcación ls edificaciones con propositos religiosos, deportivos, políticos, culturales, sociales, recreativos o de transporte. Asi mismo se clasificacn en los subgrupos:
+
+1. Lugares de reunión deportivos (L-1). Se agrupan las edificaciones utilizadas para cualquier tipo de deporte, lugares donde se agrupan personas para presenciar o realizar algún tipo de evento deportivo. 
+
+2. Lugares de reunión culturales (L-2). Las edificaciones que clasifican en este subgrupo son en la que se realizan eventos culturales o políticos.
+
+3. Lugares de reunión sociales y recreativas (L-3). Clasifican los espacios utilizados para la agrupación de personas con fines de iversión y sociales, consumo de comidas o bebidas. 
+
+4. Lugares de reunión religiosos (L-4). Edificaciones en las que se hacen reuniones con fines religiosos. 
+
+5. Lugares de reunión de transporte (L-5). Clasifican las edificaciones que grupan personas con el fin de esperar la llegada y salida de cualquier medio de trasporte de pasajeros y de carga.
+
+<b> K.2.8 Mixto y otros (M) </b>
+
+Clasifican las edificaciones que tienen más de un tipo de ocupación.
+
+<b> K.2.9 Alta peligrosidad </b>
+
+Clasifican las edificaciones empleadas en el almacenamiento, producción, procesamiento, compra, venta o uso de materiales altamente inflamables, combustibles o potencialmente explosivos. 
+
+<b> K.2.10 Residencial (R) </b>
+
+Clasifican las edificaciones empleadas como vivienda familiar o dormitorios.
+
+1. Residencial unifamiliar y bifamiliar (R-1). Dentro de este subgrupo se encuentran las edificaciones utilizadas como vivienda o dormitorios para una o dos familias, o de menos de 20 personas. 
+
+2. Residencial multifamiliar (R-2). Clasifican las edificaciones utilizadas para vivienda, dormitorio de tres o más familias, o para más de 20 personas.
+
+3. Residencial hoteles (R-3). Clasifican las edificaciones que cumplen con la función de alojar más de 20 personas durante períodos cortos de tiempo. 
+
+<b> Temporal y misceláneo (T) </b>
+
+Las edificaciones que clasifican en este grupo on las ocupadas por carácter temporal o que su ocupación varía con el tiempo. 
+
+
+
