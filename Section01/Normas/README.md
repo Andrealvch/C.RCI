@@ -6,7 +6,7 @@ La National Fire Protection Association (NFPA) es la organización encargada de 
 
 En Colombia la Norma de Sismo Resistencia en Colombia (NSR10), clasifica en el título K, las especificaciones arquitectónicas y constructivas para la clasificación de las edificaciones por grupos de ocupación, el riesgo que comprende para la seguridad y la preservación de la vida humana. El título J de la misma norma, aclara que todos los edificos deberán cumplir con los requerimientos mínimos de protección contra incendio que depende del grupo de ocupación  y los dispositivos de detección de acuerdo con la clasificación generada en el capítulo K. Con los parámetros definidos en estos dos títulos normativos, es posible definir el alcance del diseño del sistema de la red contra incendio, establecer una ruta de trabajo con base en el sistema adecuado para los espacios dentro de la edificación y las prioridades de la misma. 
 
-A continuación se presenta la tabla de clasificación de un edificio con base en el uso y grupo de ocupación.
+A continuación se presenta la tabla de clasificación de un edificio con base en el uso y grupo de ocupación. Adicionalemnte se especifica a que sección de la norma NSR 10 titulo J es necesario dirigirse para identificar los requerimientos mínimos de protección contra incendio, de acuerdo con su clasificación. 
 
 <div align="center"> Tabla J.1.1-1 
 Grupos y subgrupos de ocupación
