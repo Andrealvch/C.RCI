@@ -1,0 +1,2 @@
+## Extintores (NFPA 10)
+
