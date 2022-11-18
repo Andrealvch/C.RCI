@@ -1,5 +1,6 @@
 ## Norma para Extintores Portátiles Contra Incendios (NFPA 10)
 
+### Generalidades y clasificación
 Por definición los extintores son cilindros portátiles con el fin de apagar pequeños incendios que se producen evitando que se propaguen y sean de mayor escala. La norma para extintores desarrollada por la NFPA, Norma para Extintores Portátiles Contra Incendio (NFPA 10), como guía para la selección, compra, instalación, aprovisionamiento, listado, diseño y mantenimiento de extintores de incendio, hace referencia a las condiciones previas, en construcción y operación de las instalaciones que requieren el uso de exintores de acuerdo con su actividad principal.
 
 La NFPA 10 clasifica los extintores portatiles con base en el tipo incendio y el riesgo que se pueda producir en un espacio, indica como debe ser la instalación, la inspección, el mantenimiento, la recarga y la prueba hidrostática de cada tipo de extintor. A continuación, se indica la clasificación de incendios determinado por la NFPA 10. Capítulo 5.2. Clasificación de incendios. 
@@ -32,6 +33,5 @@ De acuerdo con la clasificación de incendios mencionada anteriormente, la norma
 
 - Los extintores recomendados para el tipo de riesgo Clase K, pueden contener polvo químico seco o agentes humedos, soluciones acuosas de acetato de potasio, carbono de potasio o citrato de potasio.
 
-**
-
+### Distribución en espacios 
 
