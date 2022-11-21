@@ -3,15 +3,15 @@
 ### Generalidades y clasificación
 Por definición los extintores son cilindros portátiles con el fin de apagar pequeños incendios que se producen evitando que se propaguen y sean de mayor escala. La norma para extintores desarrollada por la NFPA, Norma para Extintores Portátiles Contra Incendio (NFPA 10), como guía para la selección, compra, instalación, aprovisionamiento, listado, diseño y mantenimiento de extintores de incendio, hace referencia a las condiciones previas, en construcción y operación de las instalaciones que requieren el uso de exintores de acuerdo con su actividad principal.
 
-La NFPA 10 clasifica los extintores portatiles con base en el tipo incendio y el riesgo que se pueda producir en un espacio, indica como debe ser la instalación, la inspección, el mantenimiento, la recarga y la prueba hidrostática de cada tipo de extintor. A continuación, se indica la clasificación de incendios determinado por la NFPA 10. Capítulo 5.2. Clasificación de incendios. 
+La NFPA 10 clasifica los extintores portatiles con base en el tipo incendio y el riesgo que se pueda producir en un espacio, indica como debe ser la instalación, la inspección, el mantenimiento, la recarga y la prueba hidrostática de cada tipo de extintor. A continuación, se indica la clasificación de incendios determinado por la NFPA 10. Capítulo 5.2. Clasificación de incendios, el color e identificaición en las etiquetas. 
 
-| Clase | Características |
-|:-------|:-----------------|
-| A | Incendio con materiales combustibles comunes. Ejemplo: madera, papel, tela, caucho y plástico. |
-| B | Incendio de líquidos inflamables, combustibles. Ejemplo: grasas de petróleo, alquitrán, aceites, pinturas a base de aceite, disolventes, lacas, alcoholes y gases inflamables. |
-| C | Incendios de equipos eléctricos energizados |
-| D | Incendios de metales combustible. Ejemplo: magnesio, titanio, circonio, sodio, litio y potasio. |
-| K | Incendios de artefactos de cocina que involucran combustibles para cocinar. Ejemplo: aceites y grasas. |
+| Clase | Características | Color e identificación |
+|:-------|:-----------------|:----------|
+| A | Incendio con materiales combustibles comunes. Ejemplo: madera, papel, tela, caucho y plástico. | Se identifica un triángulo relleno de color verde y con la letra A visible. |
+| B | Incendio de líquidos inflamables, combustibles. Ejemplo: grasas de petróleo, alquitrán, aceites, pinturas a base de aceite, disolventes, lacas, alcoholes y gases inflamables. | Se identifica con un cuadro relleno de color ojo y con la letra B.|
+| C | Incendios de equipos eléctricos energizados | Se identifica con un círculo relleno de color azul y con la letra C. |
+| D | Incendios de metales combustible. Ejemplo: magnesio, titanio, circonio, sodio, litio y potasio. |  Se identifica con una estrella de 5 puntas rellena de color amarilla y con la letra D.|
+| K | Incendios de artefactos de cocina que involucran combustibles para cocinar. Ejemplo: aceites y grasas. |  Se identifica con un cuadro relleno de color negro y con la letra K.|
 
 Adicionalmente, la norma establece tres tipos de riesgo de ocuupación y los clasifica de la siguiente manera:
 
