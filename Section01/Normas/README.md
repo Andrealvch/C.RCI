@@ -126,5 +126,12 @@ Clasifican las edificaciones empleadas como vivienda familiar o dormitorios.
 
 Las edificaciones que clasifican en este grupo on las ocupadas por carácter temporal o que su ocupación varía con el tiempo. 
 
+### Control de versiones 
+
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
 | [Anterior](../Definiciones) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Extintores) |
 |------|:-----------|-------------------|:--------:|
