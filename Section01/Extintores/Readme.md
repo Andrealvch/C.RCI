@@ -19,7 +19,7 @@ Adicionalmente, la norma establece tres tipos de riesgo de ocuupación y los cla
 
 2. Riesgo ordinario. Se clasifican las ubicaciones que contenga moderada cantidad de combustible Clase A e inflamables Clase B.
 
-3. Riesgo extra. Se clasifican las ubicaciones que contenga alta cantidad de combustible Clase A e inflamables Clase B.
+3. Riesgo extraordinario. Se clasifican las ubicaciones que contenga alta cantidad de combustible Clase A e inflamables Clase B.
 
 De acuerdo con la clasificación de incendios mencionada anteriormente, la norma recomienda para cada tipo, los extintores que cumplen las condiciones técnicas y que ha sido efectivo en su prueba, de la siguiente manera:
 
@@ -35,3 +35,25 @@ De acuerdo con la clasificación de incendios mencionada anteriormente, la norma
 
 ### Distribución en espacios 
 
+La norma da recomendaciones generales para la ubicación e instalación de los rociadores en las que destacan: 
+
+- Los extintores deben estar ubicados en un lugar visible y de fácil acceso. Preferiblemente en los pasillos o sálidas de áreas. 
+
+- Los extintores con un peso bruto de hasta 40 lb deben instalarse a máximo 5 pies desde el suelo hasta la parte superior del extintor. 
+
+- Los extintores de incendio con un peso mayor de 40 lb deben instalarse a máximo 3 1/2 pies desde el suelo hasta la parte superior del extintor. 
+
+- La distancia desde el suelo hasta la parte inferior del extintor no puede ser más de 4 pulgadas. 
+
+- Las instrucciones de operación se los extintores deben estar sobre el frente del extintor y ser visibles.No es permito instalar otro tipo de etiquetas o señalización en la parte frontal. 
+
+- Es necesario supervisar continuamente los dispositivos de monitoreo electrónico, garantizando su funcionamiento. 
+
+Especificacmente para tipo de extintor de acuerdo con su clase de riesgo, la norma establece las áreas o distancias de ubicación de la siguiente manera:
+
+| Criterio | Ocupación de riesgo leve | Ocupación de riesgo ordinario | Ocupación de riesgo extraordinario |
+|:-------|:-----------------|:----------|:------|
+| Extintor individual. Clasificaicón mínima | 2-A | 2-A | 4-A |
+| Área máxima de piso por unidad de A | 3000 pies²| 1500 pies²| 1000 pies² |
+| Área máxima de piso por extintor | 11250 pies²| 11250 pies²| 11250 pies² |
+| Distancia máxima de recorrido hasta el extintor | 75 pies| 75 pies| 75 pies |
