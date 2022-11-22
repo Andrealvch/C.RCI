@@ -62,7 +62,7 @@ Las edificaciones que se clasifican en este grupo son las destinadas a la realiz
 
 1. Servicios (C-1). Clasifican las edificaciones donde se realizan transacciones y se ofrecen servicios profesionales o comerciales. Ej: bancos, salas de belleza, aseguradoras, oficinas, consultorios, otros similares.
 
-2. Bienes y productos (C-2).--- Clasifican los espacios utilizados para exhibición, venta y comercialización de bienes, productos y mercancías. 
+2. Bienes y productos (C-2). Clasifican los espacios utilizados para exhibición, venta y comercialización de bienes, productos y mercancías. 
 
 <b> K.2.4 Especiales (E) </b>
 
