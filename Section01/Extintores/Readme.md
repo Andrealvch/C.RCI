@@ -49,11 +49,31 @@ La norma da recomendaciones generales para la ubicación e instalación de los r
 
 - Es necesario supervisar continuamente los dispositivos de monitoreo electrónico, garantizando su funcionamiento. 
 
-Especificacmente para tipo de extintor de acuerdo con su clase de riesgo, la norma establece las áreas o distancias de ubicación de la siguiente manera:
+Especificamente para cada tipo de extintor de acuerdo con su clase de riesgo, la norma establece las áreas o distancias de ubicación de la siguiente manera:
+
+#### Clase A
 
 | Criterio | Ocupación de riesgo leve | Ocupación de riesgo ordinario | Ocupación de riesgo extraordinario |
 |:-------|:-----------------|:----------|:------|
-| Extintor individual. Clasificaicón mínima | 2-A | 2-A | 4-A |
+| Extintor individual. Clasificación mínima | 2-A | 2-A | 4-A |
 | Área máxima de piso por unidad de A | 3000 pies²| 1500 pies²| 1000 pies² |
 | Área máxima de piso por extintor | 11250 pies²| 11250 pies²| 11250 pies² |
 | Distancia máxima de recorrido hasta el extintor | 75 pies| 75 pies| 75 pies |
+
+#### Clase B
+
+| Criterio | Ocupación de riesgo leve | Ocupación de riesgo ordinario | Ocupación de riesgo extraordinario |
+|:-------|:-----------------|:----------|:------|
+| Clasificación básica/Mínima del exterior | 5B/10B | 10B/20B | 40B/80B |
+| Distancia máxima a recorrer hasta el extintor (pies) | 30/50| 30/50 | 30/50 |
+| Metros | 9.15/15.25 | 9.15/15.25 | 9.15/15.25 |
+
+#### Clase C
+
+Es necesario instalar este tipo de extintores donde haya equipos eléctricos energizados o puede ir acompañado de extintores tipo clase A o B dependiendo de las características del fuego y el espacio.
+
+#### Clase D
+
+Deben estar distanciados a máximo 75 pies (23 m). Básicamente eben estar ubicados en lugares donde se generen polvos de metal combustible, escamas, virutas, astillas o similares.
+
+#### Clase K 
