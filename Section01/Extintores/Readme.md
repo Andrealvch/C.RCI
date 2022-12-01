@@ -80,4 +80,18 @@ Deben estar distanciados a máximo 75 pies (23 m). Básicamente eben estar ubica
 
 La distancia máxima en el recorrido debe ser máximo de 9,15 m en donde existe potencial peligroso de incendio por liquidos combustibles para cocción de alimentos. 
 
-### 
+### Inspección, mantenimiento y recarga
+
+La norma NFPA 10 en el capitulo 7 establece que la inspección a los extintores de incendio deben realizarse de forma visual por lo menos una vez al mes, realizando un check list con los aspectos más relevantes que son descritos a continuación:
+
+1. Ubicación correcta con base en el diseño.
+2. Verificar que la ubicación de los extintores no obstruya los accesos al espacio.
+3. La lectura del manómetro de presión debe estar dentro del rango de diseño.
+4. Verificar el peso determinado para el extintor. 
+5. Verificación de las llantas, ruedas, carro, manguera y boquilla.
+6. Revisar el indicador de presión de prueba por empuje.
+7. Verificación de las condiciones de las instrucciones de operación en la splacas de identificación.
+8. Identificación de las condiciones de los sellos de seguridad, que no deben estar rotos o manipulados.
+9. Revisión de daños físicos, corrosión, escapeso boquillas con obstrucciones.
+
+En el momento en que se 
