@@ -80,7 +80,7 @@ Deben estar distanciados a máximo 75 pies (23 m). Básicamente eben estar ubica
 
 La distancia máxima en el recorrido debe ser máximo de 9,15 m en donde existe potencial peligroso de incendio por liquidos combustibles para cocción de alimentos. 
 
-### Inspección, mantenimiento y recarga
+### Inspección de extintores
 
 La norma NFPA 10 en el capitulo 7 establece que la inspección a los extintores de incendio deben realizarse de forma visual por lo menos una vez al mes, realizando un check list con los aspectos más relevantes que son descritos a continuación:
 
@@ -95,4 +95,25 @@ La norma NFPA 10 en el capitulo 7 establece que la inspección a los extintores 
 9. Revisión de daños físicos, corrosión, escapeso boquillas con obstrucciones.
 
 En el momento en que se detecte alguna anomalia en la inspección realizada se deben realizar las acciones correctivas en el menor tiempo posible. Es importante registrar las revisiones en una tarjeta junto al extintor o en un sistema de monitoreo electrónico. 
+
+### Mantenimiento de extintores
+
+Es común recibir un manual de mantenimiento preventivo de los fabricantes y distribuidores de extintores, dependiendo del tipo. Sin embargo, la norma establece una cantidad recomendada de tiempo en el mantenimiento interno y externo y de sistemas de monitoreo electrónico, definido de la siguiente manera:
+
+| Tipo de extintor | Intervalo de examen |
+|:-----------------|:--------------------|
+| Chorro cargado presurizado y anticongelante | 1 |
+|Tanque de bombeo de agua a base de cloruro de calcio | 1 |
+| Químico seco, operación de cartucho y cilidro, con cascos de acero dulce | 1|
+|Polvo seco, operación de cartucho y cilindro, con cascos de acero dulce | 1| 
+|Agente humectante|1|
+|Agua presurizada|1|
+|AFFF (película acuosa-formadora de espuma)|3|
+|FFFP (espuma fluoroproteínica formadora de película)|3|
+|Químico seco almacenado a presión, con cascos de acero inoxidable| 5|
+|Dióxido de carbono|5|
+|Químico húmedo|5|
+|Químico seco presurizado, con cascos de acero dulce, cascos de metal bronceado y cascos de aluminio|6|
+|Agente halogenados|6|
+|Polvo seco, presurizado, con cascos de acero dulce|6|
 
