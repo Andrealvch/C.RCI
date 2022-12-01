@@ -94,4 +94,5 @@ La norma NFPA 10 en el capitulo 7 establece que la inspección a los extintores 
 8. Identificación de las condiciones de los sellos de seguridad, que no deben estar rotos o manipulados.
 9. Revisión de daños físicos, corrosión, escapeso boquillas con obstrucciones.
 
-En el momento en que se 
+En el momento en que se detecte alguna anomalia en la inspección realizada se deben realizar las acciones correctivas en el menor tiempo posible. Es importante registrar las revisiones en una tarjeta junto al extintor o en un sistema de monitoreo electrónico. 
+
