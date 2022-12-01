@@ -77,3 +77,7 @@ Es necesario instalar este tipo de extintores donde haya equipos eléctricos ene
 Deben estar distanciados a máximo 75 pies (23 m). Básicamente eben estar ubicados en lugares donde se generen polvos de metal combustible, escamas, virutas, astillas o similares.
 
 #### Clase K 
+
+La distancia máxima en el recorrido debe ser máximo de 9,15 m en donde existe potencial peligroso de incendio por liquidos combustibles para cocción de alimentos. 
+
+### 
