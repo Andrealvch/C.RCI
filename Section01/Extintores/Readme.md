@@ -117,3 +117,10 @@ Es común recibir un manual de mantenimiento preventivo de los fabricantes y dis
 |Agente halogenados|6|
 |Polvo seco, presurizado, con cascos de acero dulce|6|
 
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
+| [Anterior](../Normas) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../XXXXX) |
+|------|:-----------|-------------------|:--------:|
