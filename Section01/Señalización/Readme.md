@@ -36,7 +36,7 @@ Para la identificación de los elementos que componen la protección contra ince
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Avisador.png" width="250px">
 </div>
 
-### Telfono exclusivo en caso de emergencia
+### Teléfono exclusivo en caso de emergencia
 
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Telefono.png" width="250px">
