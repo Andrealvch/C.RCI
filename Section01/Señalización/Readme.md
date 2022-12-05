@@ -32,39 +32,106 @@ Algunos de los pictogramas establecidos por la ISO, son:
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/ISO_7010_F003.svg" width="250px">
 </div>
 
-
-### Pulsador de alarma 
-
-<div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Alarma.png" width="250px">
-</div>
-
-### Boca de incendio
-
-<div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Manguera.png" width="250px">
-</div>
-
-### Equipamiento de protección contra incendios
+### F004 Colección de equipo contra incendio 
 
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Elementos.png" width="250px">
 </div>
 
-### Avisador sonoro
+### F005 Punto de llamada de alarma contra incendios 
 
 <div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Avisador.png" width="250px">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Alarma.svg" width="250px">
 </div>
 
-### Teléfono exclusivo en caso de emergencia
+### F006 Teléfono de emergencia contra incendio
 
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Telefono.png" width="250px">
 </div>
 
-### Puerta contrafuegos
+### F007 Puerta de protección contra incendios
 
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Puerta.png" width="250px">
+</div> 
+
+### F008 Batería contra incendios
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Bateria.png" width="250px">
 </div>
+
+### F009 Extintor en ruedas
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Ruedas.png" width="250px">
+</div>
+
+### F010 Aplicador de espuma portátil
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Espuma.png" width="250px">
+</div>
+
+### F011 Rociador de agua nebulizada
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/rociador.png" width="250px">
+</div>
+
+### F012 Instalación contra incendio
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Instalacion.png" width="250px">
+</div>
+
+### F013 Botella extintora
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Botella.png" width="250px">
+</div>
+
+### F014 Estación de liberación remota
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Liberacion.png" width="250px">
+</div>
+
+### F015 Monitor de incendios
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Monitor.png" width="250px">
+</div>
+
+### F016 Manta contra incendios
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Manta.png" width="250px">
+</div>
+
+### F017 Elevador de bomberos
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Elevador.png" width="250px">
+</div>
+
+### F018 Alarma de incendio de luz
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Luz%7D.png" width="250px">
+</div>
+
+### F019 Manguera contra incendios desconectada
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Manguera%20desco.png" width="250px">
+</div>
+
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
+| [Anterior](../Extintores) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Automatizacion) |
+|------|:-----------|-------------------|:--------:|
