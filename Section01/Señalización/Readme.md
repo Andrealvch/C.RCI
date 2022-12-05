@@ -12,7 +12,7 @@ Para la identificación de los elementos que componen la protección contra ince
 ### Extintor 
 
 <div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Extintor.png" width="250px">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section01/.graph/Extintor.png" width="500px">
 </div>
 
 ### Pulsador de alarma 
