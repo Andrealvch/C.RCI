@@ -122,5 +122,5 @@ Es común recibir un manual de mantenimiento preventivo de los fabricantes y dis
 |  | |  |   |
 |  | |   |      |
 
-| [Anterior](../Definiciones) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Extintores) |
+| [Anterior](../Normas) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Señalización) |
 |------|:-----------|-------------------|:--------:|
