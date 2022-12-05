@@ -1,4 +1,4 @@
-## Señalización complementaria a los sistemas de protección contra incendio ISO 7010
+## Señalización complementaria a los sistemas de protección contra incendio. ISO 7010
 Keywords: `NSR10` `NFPA` `ISO7010` 
 
 
