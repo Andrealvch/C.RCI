@@ -8,7 +8,7 @@ La NFPA 10 clasifica los extintores portatiles con base en el tipo incendio y el
 | Clase | Características | Color e identificación |
 |:-------|:-----------------|:----------|
 | A | Incendio con materiales combustibles comunes. Ejemplo: madera, papel, tela, caucho y plástico. | Se identifica un triángulo relleno de color verde y con la letra A visible. |
-| B | Incendio de líquidos inflamables, combustibles. Ejemplo: grasas de petróleo, alquitrán, aceites, pinturas a base de aceite, disolventes, lacas, alcoholes y gases inflamables. | Se identifica con un cuadro relleno de color ojo y con la letra B.|
+| B | Incendio de líquidos inflamables, combustibles. Ejemplo: grasas de petróleo, alquitrán, aceites, pinturas a base de aceite, disolventes, lacas, alcoholes y gases inflamables. | Se identifica con un cuadro relleno de color rojo y con la letra B.|
 | C | Incendios de equipos eléctricos energizados | Se identifica con un círculo relleno de color azul y con la letra C. |
 | D | Incendios de metales combustible. Ejemplo: magnesio, titanio, circonio, sodio, litio y potasio. |  Se identifica con una estrella de 5 puntas rellena de color amarilla y con la letra D.|
 | K | Incendios de artefactos de cocina que involucran combustibles para cocinar. Ejemplo: aceites y grasas. |  Se identifica con un cuadro relleno de color negro y con la letra K.|
