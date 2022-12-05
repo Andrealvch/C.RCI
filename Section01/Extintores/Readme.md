@@ -100,7 +100,7 @@ En el momento en que se detecte alguna anomalia en la inspección realizada se d
 
 Es común recibir un manual de mantenimiento preventivo de los fabricantes y distribuidores de extintores, dependiendo del tipo. Sin embargo, la norma establece una cantidad recomendada de tiempo en el mantenimiento interno y externo y de sistemas de monitoreo electrónico, definido de la siguiente manera:
 
-| Tipo de extintor | Intervalo de examen |
+| Tipo de extintor | Intervalo de examen (años) |
 |:-----------------|:--------------------|
 | Chorro cargado presurizado y anticongelante | 1 |
 |Tanque de bombeo de agua a base de cloruro de calcio | 1 |
