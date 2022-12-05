@@ -122,7 +122,7 @@ Clasifican las edificaciones empleadas como vivienda familiar o dormitorios.
 
 3. Residencial hoteles (R-3). Clasifican las edificaciones que cumplen con la función de alojar más de 20 personas durante períodos cortos de tiempo. 
 
-<b> Temporal y misceláneo (T) </b>
+<b> K.2.11 Temporal y misceláneo (T) </b>
 
 Las edificaciones que clasifican en este grupo on las ocupadas por carácter temporal o que su ocupación varía con el tiempo. 
 
