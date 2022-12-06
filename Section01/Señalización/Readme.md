@@ -133,5 +133,5 @@ Algunos de los pictogramas establecidos por la ISO, son:
 |  | |  |   |
 |  | |   |      |
 
-| [Anterior](../Extintores) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Automatizacion) |
+| [Anterior](../Extintores) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../.Section02) |
 |------|:-----------|-------------------|:--------:|
