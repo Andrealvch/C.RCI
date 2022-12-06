@@ -15,7 +15,6 @@ En esta sección se presentan las definiciones principales necesarias para el cu
 | [Normas utilizadas para el diseño de los sistemas de red contra incendio](Section01/Normas)                                                        | En esta actividad se describen las normas colombianas, utilizadas para el diseño de los sistemas de red contra incendio en una edificación.                                                                                                                        |
 | Extintores (NFPA 10)                                                                                                               | Se aborda la Norma para Extintores Portátiles Contra Incendio - NFPA 10, indicando las estipulaciones previstas para la selección, instalación, inspección, mantenimiento y pruebas de estos equipos.                                                   |
 | Señalización (ISO 7010)                                                                                                            | La norma técnica ISO 7010 define los símbolos gráficos sobre las señales de peligro y advertencia, incluyendo las salidas de emergencia y las señales de seguridad.                                                                                     |
-| Automatización (NFPA 731)                                                                                                          | La Norma para la Instalación de Sistemas Electrónicos de Seguridad en Establecimientos - NFPA 731, estable los criterios para asegurar la calidad y confiabilidad de las instalaciones de los sistemas de seguridad complementándolo con la tecnología. |
 
 # Sección 2 - Sistemas de redes, generalidades y aplicación
 
@@ -39,9 +38,6 @@ En esta sección se explicarán los diferentes sistemas de redes contra incendio
 | Estándar sobre Sistemas de Extinción mediante Agentes Limpios - NFPA 2001                                        | Se especifican las características y generalidades principales a tener en cuenta para el diseño de sistema con agentes limpios, sus componentes, usos y aplicaciones                 |
 
 
-| [Sección 2](https://github.com/Andrealvch/C.RCI/tree/main/Section02)                |
-|-------------------------------------------------------------------------------------|
-
 # Sección 3 - Diseño de las redes
 
 Se explica el paso a paso del diseño para cada tipo de red con base en su normativa.
@@ -59,10 +55,7 @@ Se explica el paso a paso del diseño para cada tipo de red con base en su norma
 
 # Sección 4 - Materiales para construcción para sistemas de agua 
 
-
-# Sección 5 - Normas Adicionales 
-
-# Sección 6 - Ejemplo diseño de sistemas de red 
+# Sección 5 - Ejemplo diseño de sistemas de red 
 
 | Actividad   | Alcance |
 |:------------|:--------|
