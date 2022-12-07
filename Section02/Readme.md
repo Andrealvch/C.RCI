@@ -1,6 +1,6 @@
 ## Sección 2 - Sistemas de redes, generalidades y aplicación
 
-Dentro de los mecanimos para proteger vidas humanas, edificaciones, información o bienes tangibles en la propagación de fuego en espacios cerrados, se han desarrollado varios tipos de sistemas contra incendio que ayudan a proteger lo esencial en cada espacio. Espor esto que en esta sección encontrarán la descripción general de cada tipo de sistema regido por la norma NFPA.
+Dentro de los mecanismos para proteger vidas humanas, edificaciones, información o bienes tangibles en la propagación de fuego en espacios cerrados, se han desarrollado varios tipos de sistemas contra incendio que ayudan a proteger lo esencial en cada espacio. Es por esto que en esta sección encontrarán la descripción general de cada tipo de sistema regido por la norma NFPA.
 
 Antes de entrar a explorar los tipos de sistemas, es importante que el estudiante se apropie de los tres tipos de fuego que especifica la norma:
 
