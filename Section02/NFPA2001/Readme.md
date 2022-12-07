@@ -39,4 +39,5 @@ Los componentes principales de este tipo de sistemas de extinción son:
 IMAGEN
 
 Dentro del contenido que se encuentra en la NFPA 2001 se contempla una descripción general de este sistema de extinción, referencia de textos, definiciones, componentes, diseño del sistema, sistemas de aplicación local, especificaciones para la inspección, mantenimiento, ensayos y formación, sistemas marinos y sus respectivos anexos.   
+
 De acuerdo con la NFPA 2001, ítem 4.2.1.1, “las tuberías deberán ser de material incombustible con características físicas y químicas tales que pueda predecirse con fiabilidad su integridad bajo tensión mecánica.”, así mismo se especifica que “el espesor de la tubería se deberá calcular cumpliendo con el código ASME B31.1, Power Piping Code.”
