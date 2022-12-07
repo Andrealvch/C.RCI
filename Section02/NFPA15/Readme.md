@@ -21,4 +21,13 @@ La tuberia utilizada para este sistema puedes ser:
 |Tubería forjada de cobre sin costuras y tubo de alineación de cobre| ASTM B 251|
 |Metales de relleno con soldadura fuerte y soldadura de bronce| AWS A5.8|
 
- 
+La extinción de incendio con este sistema por uno o la combinación de los sigueintes métodos:
+
+- Enfriamento superficial.
+- Sofocación por producción de vapor.
+- Emulsificación.
+- Dilusión.
+- Otros factores.
+
+El cantidad de agua pulverizada si es aplicada a combustibles sólidos o líquidos debe ser de 6.1 (L/min)/m² hasta 20.4 (L/min)/m² de superficie a proteger.
+
