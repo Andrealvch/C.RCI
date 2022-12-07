@@ -1,4 +1,6 @@
-## ESTÁNDAR SOBRE SISTEMAS DE EXTINCIÓN DE INCENDIOS CON AGENTE LIMPIOS (NFPA 2001) 
+## Estándar Sobre Sistemas de Extinción de Incendios con Agentes Limpios - NFPA 2001
+
+´NFPA´
 
 El termino agente limpio describe las sustancias extintoras no conductoras de electricidad, volátiles o gaseosas, que no deja residuos tras su evaporación. Los sistemas de redes con agentes limpios son principalmente instalados en lugares en los que se debe proteger un bien o activo, tales como equipos de cómputo que contienen información crítica para una compañía, archivo, galerías de arte, bóvedas, etc. Los agentes limpios son usados por las sustancias extintoras que contienen y cumplen con las 5 principales características exigidas principalmente por las normas eléctricas, estas son:
 
