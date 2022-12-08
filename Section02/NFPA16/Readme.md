@@ -11,5 +11,12 @@ Dentro de las consideraciones a tener en cuenta, expuestas por la norma son:
 - Cuando se instalen los rociadores encerca al techo, este no puede tener una temperatura fuera de 121-149°C.
 - Cuando se ubiquen en distancias más bajas, la temperatura debe estar entre 57-77°C.
 
+### Control de versiones 
+
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
 | [Anterior](../NFPA15) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA17A) |
 |------|:-----------|-------------------|:--------:|
