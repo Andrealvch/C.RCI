@@ -31,3 +31,5 @@ La extinción de incendio con este sistema por uno o la combinación de los sigu
 
 El cantidad de agua pulverizada si es aplicada a combustibles sólidos o líquidos debe ser de 6.1 (L/min)/m² hasta 20.4 (L/min)/m² de superficie a proteger.
 
+| [Anterior](../NFPA12) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA16) |
+|------|:-----------|-------------------|:--------:|
