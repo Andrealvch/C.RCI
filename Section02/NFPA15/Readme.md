@@ -33,5 +33,12 @@ El cantidad de agua pulverizada si es aplicada a combustibles sólidos o líquid
 
 El sistema de protección contra incedio debe funcionar de acuerdo con el tiempo previsto de duración del incendio. Para que esto se cumpla, la norma establece las características de la instalación de las redes de acuerdo con el tipo de estructura que se tiene. Por ejemplo en el capitulo 7.4.3, para acero estructural horizontal establece que: "deben estar protegidos por boquillas y tuberías de un tamaño y disposición tales que descarguen a una tasa neta de no menos de 0.10 gpm/pies² sobre el área mojada". De esta misma forma lo escribe para acero estructutal vertical, tuberías, tubos y conductos de metal. 
 
+### Control de versiones 
+
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
 | [Anterior](../NFPA12) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA16) |
 |------|:-----------|-------------------|:--------:|
