@@ -12,5 +12,5 @@ Antes de entrar a explorar los tipos de sistemas, es importante que el estudiant
 
 Con estos tipos de fuegos definidos es posible comprender la descripción y características de cada sistema.
 
-| [Anterior](../Readme.md) | [:house: Inicio](../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](NFPA13) |
+| [Anterior](../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](NFPA13) |
 |--------------------------|--------------------------------|----------------------------------------------------------------------------------------------------|---------------------------|
