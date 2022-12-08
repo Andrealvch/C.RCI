@@ -34,5 +34,12 @@ Los componentes principales de este sistema de extinción son:
 
 Es importante advertir que las personas no pueden estar expuestas a concentraciones altas de CO2, ya que sus consecuencias son taquicardia, arritmias cardíacas, pérdida de la conciencia, convulsiones o muerte.
 
+### Control de versiones 
+
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
 | [Anterior](../NFPA11) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA15) |
 |------|:-----------|-------------------|:--------:|
