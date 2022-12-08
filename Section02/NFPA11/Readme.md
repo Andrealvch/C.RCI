@@ -23,3 +23,6 @@ En la NFPA - 11 capitulo 4.3 se mencionan los concentrados de espuma para protec
 5. Resistente al alcohol: se usa para combatir incendios en materiales solubles en agua y otros combustibles destructores de espumas.
 
 Las tuberías expuestas a riesgo de incendio deben ser de acero, ajustandose a las normas ASTM A 135, ASTM A 53 y ASTM A 795. Las que no están expuestas al fuego deben ajustarse a la Norma para la Instalación de Tuberías para Servicio Privado de Incendios y sus Accesorios - NFPA 24.
+
+| [Anterior](../NFPA13) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA12) |
+|------|:-----------|-------------------|:--------:|
