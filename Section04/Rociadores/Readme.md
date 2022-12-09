@@ -73,3 +73,13 @@ dimensión S por la dimensión L.
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Oculto.png" width="800px">
 </div>
+
+### Control de versiones 
+
+| Versión    | Descripción                                                          | Autor                                      | Horas |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+|  | |  |   |
+|  | |   |      |
+
+| [Anterior](../../Section03/NFPA2001) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Automatizacion) |
+|------|:-----------|-------------------|:--------:|
