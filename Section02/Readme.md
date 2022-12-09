@@ -4,7 +4,6 @@ Dentro de los mecanismos para proteger vidas humanas, edificaciones, informació
 
 
 <div align="center">
-    <b>Da click en la presentación para ver el vídeo de bienvenida a la sección 1 </b>
     <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EUdDPmfJ8LhGvJoW1qUsBlQBPgdJ_BJI4rNLtrvCpy9UrA?e=1JBnWI">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section02/.graph/P%20mod%202.png" width="800px">
     </a>
