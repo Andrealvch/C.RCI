@@ -2,6 +2,14 @@
 
 Dentro de los mecanismos para proteger vidas humanas, edificaciones, información o bienes tangibles en la propagación de fuego en espacios cerrados, se han desarrollado varios tipos de sistemas contra incendio que ayudan a proteger lo esencial en cada espacio. Es por esto que en esta sección encontrarán la descripción general de cada tipo de sistema regido por la norma NFPA.
 
+
+<div align="center">
+    <b>Da click en la presentación para ver el vídeo de bienvenida a la sección 1 </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EUdDPmfJ8LhGvJoW1qUsBlQBPgdJ_BJI4rNLtrvCpy9UrA?e=1JBnWI">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section02/.graph/P%20mod%202.png" width="800px">
+    </a>
+</div>
+
 Antes de entrar a explorar los tipos de sistemas, es importante que el estudiante se apropie de los tres tipos de fuego que especifica la norma:
 
 <b> - Fuego clase A: </b> fuego de materiales combustibles ordinarios, tales como madera, tejido, papel, caucho y muchos plásticos.
