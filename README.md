@@ -5,16 +5,37 @@
 <br><i>Andrea Liseth Vasco Chivatá, andrea.vasco@escuelaing.edu.co </i>
 </div>
 
+<br>
+
 <div align="center">
-    <b>Da click en la presentación para ver el vídeo de bienvenida </b>
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/REND_CAR_AND.png" width="1000px">
+</div>
+
+<br>
+
+### Introducción
+
+Bienvenidos al curso virtual básico de sistemas de redes contra incendio ofrecido por la Universidad Escuela Colombiana de Ingeniería Julio Garavito. En el desarrollo del curso encontrarás videos que orientan el trabajo de cada uno de los módulos y sus respectivas actividades. En cada actividad encontrarás la información necesaria para cumplir con cada uno de los objetivos propuestos. 
+
+Este curso corto está diseñado para que el estudiante adquiera los conceptos básicos de los tipos de redes contra incendio y sus respectivos complementos para cumplir con su objetivo específico de salvaguardar las vidas humanas, generar el menor impacto en la infraestructura de un edificio y sus activos. También se describirán los elementos que componen un sistema red contra incendio, los materiales utilizados en su contrucción y un ejemplo práctio de su diseño. 
+
+De acuerdo con la National Fire Protection Association (NFPA), organización que crea y mantiene las normas para la prevención contra incendio, actualmente se clasifican 8 tipos diferentes de sistemas de extinción y control de fuego tales como, agentes limpios, aerosoles, nebulización, etc. Para cada uno de estos tipos de sistemas se profundizará en su respectiva norma y carctaerísticas a tener en cuenta. 
+
+Recuerda que puedes realizar el curso con o sin acompañamiento del profesor y obtener el certificado del curso. 
+
+### Objetivos 
+
+- Familiarizarse con la terminología utilizada mundialmente por la organización fundada en Estados Unidos, la Asociación Nacional de Protección Contra el Fuego.
+- Crear herramientas para facilitar la compresión de las normas NFPA para los sistemas de redes contra incendio.
+- Aplicar la metodología de diseño establecido por la NFPA para los sostemas de redes contra incendio.
+
+<div align="center">
     <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EcwYOmd5TadOgo6TGjqrFJsBO8qk8KgHZccHnzwPbi-XeQ?e=AYhBhG">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n.png" width="800px">
     </a>
 </div>
 
-Este curso corto está diseñado para que el estudiante adquiera los conceptos básicos de los tipos de redes contra incendio y sus respectivos complementos para cumplir con su objetivo específico de salvaguardar las vidas humanas, generar el menor impacto en la infraestructura de un edificio y sus activos. También se describirán los elementos que componen un sistema red contra incendio, los materiales utilizados en su contrucción y un ejemplo práctio de su diseño. 
-
-De acuerdo con la National Fire Protection Association (NFPA), organización que crea y mantiene las normas para la prevención contra incendio, actualmente se clasifican 8 tipos diferentes de sistemas de extinción y control de fuego tales como, agentes limpios, aerosoles, nebulización, etc. Para cada uno de estos tipos de sistemas se profundizará en su respectiva norma y carctaerísticas a tener en cuenta. 
+## Contenido 
 
 ### Sección 1 - conceptos generales y complementos
 
