@@ -64,7 +64,7 @@ Se presenta el diagrama con el paso a paso del diseño para cada tipo de red con
 | Actividad         | Alcance                                                                                                                                                                                                                                   |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Rociadores](Section04/Rociadores)| Descripción de cada tipo de Rociador|
-|[Código  Nacional de alarmas de incendio y señalización (NFPA 72)] (Section04/Automatizacion)| Descripción breve de el sistema de alarma y señalización que complementa los sistemas contra incendio|
+|[Código  Nacional de alarmas de incendio y señalización (NFPA 72)](Section04/Automatizacion)| Descripción breve de el sistema de alarma y señalización que complementa los sistemas contra incendio|
 
 # Sección 5 - Ejemplo diseño de sistema de red contra incendio a base de agua 
 
