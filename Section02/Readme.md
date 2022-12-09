@@ -5,7 +5,7 @@ Dentro de los mecanismos para proteger vidas humanas, edificaciones, informació
 
 <div align="center">
     <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EUdDPmfJ8LhGvJoW1qUsBlQBPgdJ_BJI4rNLtrvCpy9UrA?e=1JBnWI">
-        <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section02/.graph/P%20mod%202.png" width="800px">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section02/.graph/Modulo2_1.png" width="800px">
     </a>
 </div>
 
