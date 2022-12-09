@@ -52,33 +52,26 @@ En esta sección se explicarán los diferentes sistemas de redes contra incendio
 
 # Sección 3 - Diseño de las redes
 
-Se explica el paso a paso del diseño para cada tipo de red con base en su normativa.
+Se presenta el diagrama con el paso a paso del diseño para cada tipo de red con base en su normativa, siempre y cuando este descrita. Para algunos sistemas, el diseño depende del fabricante, tal como lo mencionan las normas vistas en el módulo anterior.
 
 | Actividad         | Alcance                                                                                                                                                                                                                                   |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NFPA 13           | Para diseñar el sistema de red contra incendio de agua, se utiliza la norma NFPA 13 en el que muestra el paso a paso con las condiciones inciiales para luego realizar el cálculo hidráulico, trazado de la red en planta y de destalles. |
-| NFPA 11           | En el diseño de sistemas de red con espuma se utiliza la NFPA 11                                                                                                                                                                          |
-| NFPA 12           |                                                                                                                                                                                                                                           |
-| NFPA 15           |                                                                                                                                                                                                                                           |
-| NFPA 16           |                                                                                                                                                                                                                                           |
-| NFPA 17A          |                                                                                                                                                                                                                                           |
-| NFPA 750          |                                                                                                                                                                                                                                           |
-| NFPA 2001         |                                                                                                                                                                                                                                           |
+| [NFPA 13](Section03/NFPA13)           | Para diseñar el sistema de red contra incendio de agua, se utiliza la norma NFPA 13 en el que muestra el paso a paso con las condiciones iniciales para luego realizar el cálculo hidráulico, trazado de la red en planta y de destalles. |
+| [NFPA 2001](Section03/NFPA2001)         |  Para diseñar el sistema de red contra incendio mediante agentes limpios, se utiliza la norma NFPA 2001 en el que muestra el paso a paso con las condiciones iniciales para luego realizar el cálculo hidráulico, trazado de la red en planta y de destalles.                                                                                                                                                                                                                                         |
 
-# Sección 4 - Materiales para construcción para sistemas de agua 
+# Sección 4 - Elementos y sistemas complementarios
 
-# Sección 5 - Ejemplo diseño de sistemas de red 
+| Actividad         | Alcance                                                                                                                                                                                                                                   |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Rociadores](Section04/Rociadores)| Descripción de cada tipo de Rociador|
+|[Código  Nacional de alarmas de incendio y señalización (NFPA 72)] (Section04/Automatizacion)| Descripción breve de el sistema de alarma y señalización que complementa los sistemas contra incendio|
 
-| Actividad   | Alcance |
-|:------------|:--------|
-| NFPA 13     |         |
-| NFPA 11     |         |
-| NFPA 12     |         |
-| NFPA 15     |         |
-| NFPA 16     |         |
-| NFPA 17A    |         |
-| NFPA 750    |         |
-| NFPA 2001   |         |                
+# Sección 5 - Ejemplo diseño de sistema de red contra incendio a base de agua 
+
+[Ejemplo diseño (NFPA 13)](Section05/NFPA13)
+
+
+               
 
  
 
