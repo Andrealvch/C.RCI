@@ -1,4 +1,16 @@
-# C.RCI
+# C.RCI - SISTEMAS DE RED CONTRA INCENDIO 
+
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br><i>Andrea Liseth Vasco Chivatá, andrea.vasco@escuelaing.edu.co </i>
+</div>
+
+<div align="center">
+    <b>Da click en la presentación para ver el vídeo de bienvenida </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EcwYOmd5TadOgo6TGjqrFJsBO8qk8KgHZccHnzwPbi-XeQ?e=AYhBhG">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n.png" width="800px">
+    </a>
+</div>
 
 Este curso corto está diseñado para que el estudiante adquiera los conceptos básicos de los tipos de redes contra incendio y sus respectivos complementos para cumplir con su objetivo específico de salvaguardar las vidas humanas, generar el menor impacto en la infraestructura de un edificio y sus activos. También se describirán los elementos que componen un sistema red contra incendio, los materiales utilizados en su contrucción y un ejemplo práctio de su diseño. 
 
