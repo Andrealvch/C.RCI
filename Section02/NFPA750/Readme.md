@@ -71,5 +71,5 @@ Adicionalmente, las boquillas se clasifican de acuerdo con la activación térmi
 |  | |  |   |
 |  | |   |      |
 
-| [Anterior](../NFPA17A) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Section03/NFPA13) |
+| [Anterior](../NFPA17A) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA2001) |
 |------|:-----------|-------------------|:--------:|
