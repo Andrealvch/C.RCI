@@ -5,6 +5,8 @@
 <br><i>Andrea Liseth Vasco Chivatá, andrea.vasco@escuelaing.edu.co </i>
 </div>
 
+
+
 <div align="center">
     <b>Da click en la presentación para ver el vídeo de bienvenida </b>
     <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EcwYOmd5TadOgo6TGjqrFJsBO8qk8KgHZccHnzwPbi-XeQ?e=AYhBhG">
