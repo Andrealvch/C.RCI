@@ -38,7 +38,38 @@ terminada.
 El área de cobertura de protección del rociador debe establecerse multiplicando la
 dimensión S por la dimensión L.
 
-Partes de un rociador
+<b>Partes de un rociador</b>
+
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Partes%20rociador.png" width="800px">
+</div>
+
+<b> Rociador de pared </b>
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Pared.png" width="800px">
+</div>
+
+<b> Rociador montante </b>
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Montante.png" width="800px">
+</div>
+
+<b> Rociador colgante </b>
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Colgante.png" width="800px">
+</div>
+
+<b> Rociador de descarga plana </b>
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Plana.png" width="800px">
+</div>
+
+<b> Rociador colgante oculto </b>
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Oculto.png" width="800px">
 </div>
