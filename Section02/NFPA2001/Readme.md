@@ -36,7 +36,10 @@ Los componentes principales de este tipo de sistemas de extinción son:
 •	Cilindros de agente.
 •	Panel de control.
 
-IMA
+Ejemplo sistema en galería 
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section02/.graph/GAL_ART%20axo.jpg" width="250px">
+</div>
 
 Dentro del contenido que se encuentra en la NFPA 2001 se contempla una descripción general de este sistema de extinción, referencia de textos, definiciones, componentes, diseño del sistema, sistemas de aplicación local, especificaciones para la inspección, mantenimiento, ensayos y formación, sistemas marinos y sus respectivos anexos.   
 
