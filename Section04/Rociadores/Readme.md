@@ -74,6 +74,33 @@ dimensión S por la dimensión L.
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Oculto.png" width="800px">
 </div>
 
+Cada tipo de rociador tiene un área de cobertura que depende del riesgo y si hay obtrucciones o no dentro del espacio a proteger. Es por esto que la NFPA establece los riegos de la siguiente manera:
+
+- <b> Riesgo leve: </b> deben protegerse las edificaciones con clasficación de ocupaciones con riesgo leve, establecido como espacios con poca cantidad y bajacombustibilidad de los contenidos. 
+
+- <b> Riesgo ordinario (Grupo 1): </b> se establece este riesgo porque los espacios tienen cantidad moderada de elementos y baja combustibilidad de los contenidos o se apilan contenidos a nos más de 2.4 m, con baja combustibilidad. 
+
+- <b> Riesgo ordinario (Grupo 2): </b> se establece este riesgo porque los espacios tienen cantidad moderada a alta de elementos y de combustibilidad de los contenidos o se apilan contenidos a nos más de 3.7 m, con moderada a alta combustibilidad. 
+
+- <b> Riesgo extra (Grupo 1) (EH1): </b> se establece este riesgo porque los espacios tienen cantidad muy alta de elementos y de combustibilidad de los contenidos o espacios donde predomina la presencia de polvos, pelusas u otros materiales que pueden provocar un incendio rápidamente. 
+
+- <b> Riesgo extra (Grupo 2) (EH2): </b> se establece este riesgo porque los espacios tienen cantidad muy alta de elementos y de combustibilidad de los contenidos o espacios con muchas cantidades de líquidos combustibles o inflamables o donde es extensa la protección de combustibles. 
+
+y el área de protección y espaciamiento máximo para rociadores estándar colgantes y montantescon base en el riesgo:
+
+|Tipo de construción|Riesgo|Área de protección máxima (m2)|Espaciamiento máximo (m)|
+|:------------------|:--------------|:-----------------------------|:------------------------|
+| No combustible obstruida|Leve | 20| 4.6|
+|Combustible no obstruida, sin miembros expuestos| Leve |20|4.6|
+|Combustible no obstruida, con miembros a menos de 3 pies o más entre centros| Leve|16|4.6|
+|Todas|Ordinario|12|4.6|
+|Todas, densidad <0.25 gpm/pie2|12|4.6|
+|Todas, densidad >0.25 gpm/pie2|9|3.7|
+
+La distancia mínima entre rociadores debe ser de 1.8 m entre centros. 
+
+Si el rociador para el diseño es diferente al mencionado en la tabla anterior por favor dirigirse a la NFPA 13, capítulo 10 y 11.
+
 ### Control de versiones 
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
