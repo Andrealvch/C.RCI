@@ -23,6 +23,9 @@ Con base en lo revisado en la sección 1, la edificación a diseñar clasifica d
 3.	Definir el tipo de rociadores a tulizar en el edificio. De acuerdo con las indicaciones del Director del Proyecto, las redes hidráulicas quedan a la vista, es decir que no tendrá cielo raso. Con esta información se procede a escoger los rociadores colgantes de temperatura 57°C. [Véase Sección 4, Rociadores](../Section04/Rociadores). 
 4.	Realizar el trazado general de las redes a partir de los criterios de localización relacionados en la norma referenciada.
 
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/distribucion%20oficinas%20la%20mundial-Model.jpg" width="1000px">
+  </div>
 
 6.	Definir la ubicación de las estructuras complementarias de operación y control del sistema.
 7.	Realizar el predimensionamiento del sistema de la red contra incendio.
