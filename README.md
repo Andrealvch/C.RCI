@@ -89,7 +89,7 @@ Se presenta el diagrama con el paso a paso del diseño para cada tipo de red con
 
 # Sección 5 - Ejemplo diseño de sistema de red contra incendio a base de agua 
 
-[Ejemplo diseño (NFPA 13)](Section05/NFPA13)
+[Ejemplo diseño (NFPA 13)](Section05/Readme.md)
 
 
                
