@@ -94,8 +94,8 @@ y el área de protección y espaciamiento máximo para rociadores estándar colg
 |Combustible no obstruida, sin miembros expuestos| Leve |20|4.6|
 |Combustible no obstruida, con miembros a menos de 3 pies o más entre centros| Leve|16|4.6|
 |Todas|Ordinario|12|4.6|
-|Todas, densidad <0.25 gpm/pie2|12|4.6|
-|Todas, densidad >0.25 gpm/pie2|9|3.7|
+|Todas, densidad <0.25 gpm/pie2|Extra|12|4.6|
+|Todas, densidad >0.25 gpm/pie2|Extra|9|3.7|
 
 La distancia mínima entre rociadores debe ser de 1.8 m entre centros. 
 
