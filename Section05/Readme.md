@@ -4,10 +4,17 @@ En este módulo se presenta un ejercicio práctico de la red contra incendio a b
 
 El diseño para construcción de un sistema de red contra incendio generalmente inicia con la elaboración de un diseño conceptual, el cual, brinda una aproximación del sistema que se desea implantar en el área de estudio, una vez aprobado este diseño, se realizan los detalles para construcción de los elementos particulares del sistema que garantizan el adecuado funcionamiento de la red.
 
-<b> Diseño conceptual </b>
+### Diseño conceptual
 
-1.	Reconocer el área de estudio identificando el acceso a los servicios que permiten la instalación interna del sistema.
-2.	Determinar el tipo de ocupación de la edificación conforme a la clasificación de la NSR 10 en lo títulos J y K para identificar las zonas y tipos de protección. [Véase Sección 1](../../Section01/Normas).
+1.	Reconocer el área de estudio identificando el acceso a los servicios que permiten la instalación interna del sistema. Para este ejercicio se toma como base la implantación arquitéctonica de un edificio de 3 pisos, con una distribución tipo por piso. Cada piso cuenta con 16 espacios de oficinas, sala de reuniones, 3 bodegas, 1 comedor, 2 baños para mujeres y 2 para hombres, cuarto de aseo, sala con 8 computadores, recepción y showroom. el proyecto esta ubicado en la ciudad de Bogotá. 
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Arquitectonica.png" width="1000px">
+  </div>
+  
+2. Definir clasificación del grupo y subgrupo de la edificación con base en la [NSR-10 título J y K](../../Section01/Normas).
+
+3.	Determinar el tipo de ocupación de la edificación conforme a la clasificación de la NSR 10 en lo títulos J y K para identificar las zonas y tipos de protección. [Véase Sección 1](../../Section01/Normas).
 
 |Grupo de ocuapación|Rociadores de incendio|Tomas fijas para bomberos|Extintores portátiles|
 |:------------------|:---------------------|:------------------------|:--------------------|
