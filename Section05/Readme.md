@@ -12,20 +12,21 @@ El diseño para construcción de un sistema de red contra incendio generalmente 
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Arquitectonica.png" width="1000px">
   </div>
 
-2.	Determinar el tipo de ocupación de la edificación conforme a la clasificación de la NSR 10 en lo títulos J y K para identificar las zonas y tipos de protección. [Véase Sección 1](../../.Section01/Normas).
+2.	Determinar el tipo de ocupación de la edificación conforme a la clasificación de la NSR 10 en lo títulos J y K para identificar las zonas y tipos de protección. [Véase Sección 1, Normas](../Section01/Normas).
 
-Con base en lo revisado en la sección 1, la edificación a diseñar clasifica dentro del grupo C- Comercio. 
+Con base en lo revisado en la sección 1, la edificación a diseñar clasifica dentro del grupo C- Comercio, subgrupo Servicios C-1. PAra esta clasificación, la norma establece los siguientes requerimientos mínimos para la protección contr incendio del edificio: 
 
-|Grupo de ocuapación|Rociadores de incendio|Tomas fijas para bomberos|Extintores portátiles|
+|Grupo de ocupación|Rociadores de incendio|Tomas fijas para bomberos|Extintores portátiles|
 |:------------------|:---------------------|:------------------------|:--------------------|
-|Comercio|- En edificios de más de 9 metros de altura. (C-2) - Con un área mayor de 100 m2, incluidas aéreas de mazanines. (C-2) - Para áreas mayores de 200 m2, que se utilicen para ventas, almacenamiento o manipulación de mercancías. (C-2) - En edificios mayores de 18 metros de altura. (C-1)|Todas las edificaciones del grupo C deben contar con un sistemas de tomas fijas, mangueras para extinción de incendios que estén a la mano del cuerpo de bomberos, según norma NTC 1669 y NFPA14|Todas las edificaciones del grupo C deben estas protegidas con un sistemas de extintores de incendio, según norma NTC 2885y NFPA10.|
+|Comercio|- En edificios de más de 9 metros de altura. (C-2) - Con un área mayor de 100 m2, incluidas áreas de mazanines. (C-2) - Para áreas mayores de 200 m2, que se utilicen para ventas, almacenamiento o manipulación de mercancías. (C-2) - En edificios mayores de 18 metros de altura. (C-1) [Véase Sección 2, NFPA-13](../Section02/NFPA13)|Todas las edificaciones del grupo C deben contar con un sistemas de tomas fijas, mangueras para extinción de incendios que estén a la mano del cuerpo de bomberos, según norma NFPA - 14 |Todas las edificaciones del grupo C deben estar protegidas con un sistema de extintores de incendio, según norma NFPA - 10. [Véase Sección 1, Extintores](../Section01/Extintores)|
+
+3.	Definir el tipo de rociadores a tulizar en el edificio. De acuerdo con las indicaciones del Director del Proyecto, las redes hidráulicas quedan a la vista, es decir que no tendrá cielo raso. Con esta información se procede a escoger los rociadores colgantes de temperatura 57°C. [Véase Sección 4, Rociadores](../Section04/Rociadores). 
+4.	Realizar el trazado general de las redes a partir de los criterios de localización relacionados en la norma referenciada.
 
 
-3.	Reconocer el planteamiento arquitectónico del proyecto.
-4.	Realizar el trazado general de las redes a partir de los criterios de localización relacionados en la norma referencia.
-5.	Definir la ubicación de las estructuras complementarias de operación y control del sistema.
-6.	Realizar el predimensionamiento del sistema de la red contra incendio.
-7.	Elaborar las memorias de cálculo y los planos de diseño.
+6.	Definir la ubicación de las estructuras complementarias de operación y control del sistema.
+7.	Realizar el predimensionamiento del sistema de la red contra incendio.
+8.	Elaborar las memorias de cálculo y los planos de diseño.
 
 <b> Diseño para construcción </b>
 
