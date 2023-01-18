@@ -3,7 +3,7 @@
 ´NFPA´
 
  
- Los sistemas de agua nebulizada se basa en la separación del agua en pequeñas partículas, que son las que controlan, sofocan y suprimen el incendio y tiene como finalidad:
+El sistema de agua nebulizada se basa en la separación del agua en pequeñas partículas, que son las que controlan, sofocan y suprimen el incendio y tiene como finalidad:
  
  1. Extinción de incendios.
  2. Supresión de incendios.
