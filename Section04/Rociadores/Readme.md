@@ -1,6 +1,6 @@
 ## Rociadores
 
-Los rociadores juegan un papel importante dentro de los sistemas de extinción de incendio, se complementan con una red de tuberias, bombas y válvulas, con el objetivo de contrarrestar un fuego en propagación y que los daños sean mínimos. Al momento de instalar rociadores en un espacio se debe procurar que estos cubran la totalidad de los espacios y así evitar concentración de fuego. Los rociadores son indispensables en muchos de los tipos de sistemas vistos en las secciones anteriores. En esta sección se presentarán los rociadores comunes para el sistema contra incendio a base de agua y las características más relevantes a considerar en el diseño. La norma que brinda los requerimientos mínimos para el diseño, instalación y pruebas para los rociadores es la NFPA 13 que ya fue vista en secciones anteriores.
+Los rociadores o sprinklers juegan un papel importante dentro de los sistemas de extinción de incendio, se complementan con una red de tuberias, bombas y válvulas, con el objetivo de contrarrestar un fuego en propagación y que los daños sean mínimos. Al momento de instalar rociadores en un espacio se debe procurar que estos cubran la totalidad de los espacios y así evitar concentración de fuego. Los rociadores son indispensables en muchos de los tipos de sistemas vistos en las secciones anteriores. En esta sección se presentarán los rociadores comunes para el sistema contra incendio a base de agua y las características más relevantes a considerar en el diseño. La norma que brinda los requerimientos mínimos para el diseño, instalación y pruebas para los rociadores es la NFPA 13 que ya fue vista en secciones anteriores.
 
 Es importante conocer cuales son los componentes de un rociador y como es su funcionamiento. En la siguiente imagen se enumeran y mencionan las partes de un rociador común:
 
@@ -10,6 +10,7 @@ Es importante conocer cuales son los componentes de un rociador y como es su fun
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Partes%20rociador.png" width="800px">
 </div>
 
+Como se observa en la descripción anterior, la ampolla esta compuesta por mercurio que se derrite a ciertas temperaturas que lo veremos más adelante. Cuando este elemento se derrite, se genera el accionamiento del rociador y avita la propogación del fuego. Es importante tener en cuenta las condiciones del proyecto para la instalación de los rociadores.  
 
 
 <b> Construcción del sistema con obstrucciones en techo: </b> construcción con paneles y otra construcción donde las
