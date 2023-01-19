@@ -11,5 +11,5 @@
 |  | |  |   |
 |  | |   |      |
 
-| [Anterior](../NFPA13) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../../Section04/Readme.md) |
+| [Anterior](../NFPA13) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../../Section04/Rociadores) |
 |------|:-----------|-------------------|:--------:|
