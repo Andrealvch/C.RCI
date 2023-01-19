@@ -1,6 +1,16 @@
 ## Rociadores
 
-En esta sección se presentarán los rociadores comunes para el sistema contra incendio a base de agua y las carcaterísticas más relevantes a considerar en el diseño.
+Los rociadores juegan un papel importante dentro de los sistemas de extinción de incendio, se complementan con una red de tuberias, bombas y válvulas, con el objetivo de contrarrestar un fuego en propagación y que los daños sean mínimos. Al momento de instalar rociadores en un espacio se debe procurar que estos cubran la totalidad de los espacios y así evitar concentración de fuego. Los rociadores son indispensables en muchos de los tipos de sistemas vistos en las secciones anteriores. En esta sección se presentarán los rociadores comunes para el sistema contra incendio a base de agua y las características más relevantes a considerar en el diseño. La norma que brinda los requerimientos mínimos para el diseño, instalación y pruebas para los rociadores es la NFPA 13 que ya fue vista en secciones anteriores.
+
+Es importante conocer cuales son los componentes de un rociador y como es su funcionamiento. En la siguiente imagen se enumeran y mencionan las partes de un rociador común:
+
+<b>Partes de un rociador</b>
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Partes%20rociador.png" width="800px">
+</div>
+
+
 
 <b> Construcción del sistema con obstrucciones en techo: </b> construcción con paneles y otra construcción donde las
 vigas, cerchas u otros miembros impiden el flujo de calor o la distribución del agua, de tal modo
@@ -37,12 +47,6 @@ terminada.
 
 El área de cobertura de protección del rociador debe establecerse multiplicando la
 dimensión S por la dimensión L.
-
-<b>Partes de un rociador</b>
-
-<div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Partes%20rociador.png" width="800px">
-</div>
 
 <b> Rociador de pared </b>
 
