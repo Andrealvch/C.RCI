@@ -4,7 +4,7 @@ En este módulo se presenta un ejercicio práctico de la red contra incendio a b
 
 El diseño para construcción de un sistema de red contra incendio generalmente inicia con la elaboración de un diseño conceptual, el cual, brinda una aproximación del sistema que se desea implantar en el área de estudio, una vez aprobado este diseño, se realizan los detalles para construcción de los elementos particulares del sistema que garantizan el adecuado funcionamiento de la red.
 
-### Diseño conceptual
+### Diseño conceptual del sistema de red contra incendio en la edificación
 
 1.	Reconocer el área de estudio identificando el acceso a los servicios que permiten la instalación interna del sistema. Para este ejercicio se toma como base la implantación arquitéctonica de un edificio de 3 pisos, con una distribución tipo por piso. Cada piso cuenta con 16 espacios de oficinas, sala de reuniones, 3 bodegas, 1 comedor, 2 baños para mujeres y 2 para hombres, cuarto de aseo, sala con 8 computadores, recepción y showroom. el proyecto esta ubicado en la ciudad de Bogotá. 
 
@@ -14,21 +14,34 @@ El diseño para construcción de un sistema de red contra incendio generalmente 
 
 2.	Determinar el tipo de ocupación de la edificación conforme a la clasificación de la NSR 10 en lo títulos J y K para identificar las zonas y tipos de protección. [Véase Sección 1, Normas](../Section01/Normas).
 
-Con base en lo revisado en la sección 1, la edificación a diseñar clasifica dentro del grupo C- Comercio, subgrupo Servicios C-1. PAra esta clasificación, la norma establece los siguientes requerimientos mínimos para la protección contr incendio del edificio: 
+Con base en lo revisado en la sección 1, la edificación a diseñar se clasifica dentro del grupo C- Comercio, subgrupo Servicios C-1. Para esta clasificación, la norma establece los siguientes requerimientos mínimos para la protección contra incendio del edificio: 
 
 |Grupo de ocupación|Rociadores de incendio|Tomas fijas para bomberos|Extintores portátiles|
 |:------------------|:---------------------|:------------------------|:--------------------|
 |Comercio|- En edificios de más de 9 metros de altura. (C-2) - Con un área mayor de 100 m2, incluidas áreas de mazanines. (C-2) - Para áreas mayores de 200 m2, que se utilicen para ventas, almacenamiento o manipulación de mercancías. (C-2) - En edificios mayores de 18 metros de altura. (C-1) [Véase Sección 2, NFPA-13](../Section02/NFPA13)|Todas las edificaciones del grupo C deben contar con un sistemas de tomas fijas, mangueras para extinción de incendios que estén a la mano del cuerpo de bomberos, según norma NFPA - 14 |Todas las edificaciones del grupo C deben estar protegidas con un sistema de extintores de incendio, según norma NFPA - 10. [Véase Sección 1, Extintores](../Section01/Extintores)|
 
-3.	Definir el tipo de rociadores a tulizar en el edificio. De acuerdo con las indicaciones del Director del Proyecto, las redes hidráulicas quedan a la vista, es decir que no tendrá cielo raso. Con esta información se procede a escoger los rociadores colgantes de temperatura 57°C. [Véase Sección 4, Rociadores](../Section04/Rociadores). 
+3.	Definir el tipo de rociadores a utilizar en el edificio. De acuerdo con el diseño arquitectónico del proyecto, el sistema contra incendio a proponer quedará a la vista, es decir, los espacios de la edificación no contarán con cielo raso. Con esta información se procede a escoger un sistema de red contra incendio a base de agua junto con los rociadores colgantes de temperatura 57°C para la protección del edificio. [Véase Sección 4, Rociadores](../Section04/Rociadores). 
+
 4.	Realizar el trazado general de las redes a partir de los criterios de localización relacionados en la norma referenciada.
 
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/distribucion%20oficinas%20la%20mundial-Model.jpg" width="1000px">
   </div>
+  
+5. Definir dentro de la clasificación del riesgo según la NFPA 13, cuál se define de acuerdo con la ocupación del edificio a diseñar.
+
+Con base en la clasificación de las edificaciones en cada uno de los tipos de riesgo, se toma como riesgo leve a todos los espacios de uso de oficinas, incluyendo las que procesan datos. 
 
 6.	Definir la ubicación de las estructuras complementarias de operación y control del sistema.
+
+Es indispensable ubicar un espacio para instalar el sistema de operación y control de la red y elementos que complementan el sistema de extinción contra incendio. En este caso, en el plano arquitectónico se ubica el sistema de conexión de bomberos, gabinetes de inendio, extintores, panel de control de incendio y elementos de alarma de incendio. 
+
+<b> FALTA IMAGEN </b> 
+
 7.	Realizar el predimensionamiento del sistema de la red contra incendio.
+
+
+
 8.	Elaborar las memorias de cálculo y los planos de diseño.
 
 <b> Diseño para construcción </b>
