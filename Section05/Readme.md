@@ -30,13 +30,19 @@ Con base en lo revisado en la sección 1, la edificación a diseñar se clasific
 
 Como se puede observar en la imagen, se presenta la propuesta de ubicación de los rociadores cubriendo todos los espacios con las distancias establecidas en la norma NFPA 13.
 
-5.
+5. Es necesario definir la ubicación de las estructuras complementarias de operación y control del sistema.
 
-5. Definir dentro de la clasificación del riesgo según la NFPA 13, cuál se define de acuerdo con la ocupación del edificio a diseñar.
+La norma NFPA 14 establece los requerimientos mínimos para la instalación de sistemas de tubería vertical y mangueras de acuerdo con la clase de sistema. Se planten los sitemas clase I, II y III, de acuerdo con los siguientes críterios: 
 
-Con base en la clasificación de las edificaciones en cada uno de los tipos de riesgo, se toma como riesgo leve a todos los espacios de uso de oficinas, incluyendo las que procesan datos. 
+<b> Sistemas Clase I: </b> sistemas de tubería vertical que provee conexiones de manguera de 65 mm para suministrar agua para uso por cuerpos de bomberos.
 
-6.	Definir la ubicación de las estructuras complementarias de operación y control del sistema.
+<b> Sistemas Clase II: </b> debe proveer estaciones de manguera de 38 mm para suministrar agua para uso por cuerpo de bomberos durante la respuesta inicial. 
+
+<b> Sistemas Clase III: </b> debe proveer estaciones de manguera de 38 mm para suministrar agua de uso personal y conexión de 65 mm para un gran volumen de agua para uso de cuerpo de bomberos. 
+
+Cualquiera de estos sistemas deben ubicarse a no menos de 0.9 m o a más de 1.5 m sobre el piso, sin ningún tipo de obstrucción. 
+
+FALTA UBICACIÓN
 
 Es indispensable ubicar un espacio para instalar el sistema de operación y control de la red y elementos que complementan el sistema de extinción contra incendio. En este caso, en el plano arquitectónico se ubica el sistema de conexión de bomberos, gabinetes de inendio, extintores, panel de control de incendio y elementos de alarma de incendio. 
 
