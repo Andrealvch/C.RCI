@@ -25,10 +25,12 @@ Con base en lo revisado en la sección 1, la edificación a diseñar se clasific
 4.	Realizar el trazado general de las redes a partir de los criterios de localización relacionados en la norma referenciada. Verificando que todos los espacios estén cubiertos por el sistema de rociadores. En la NFPA 13 capítulo <b> "8.6.2 Áreas de Protección por Rociador (Rociadores Pulverizadores Estándar Colgantes y Montantes)" </b> la norma establece en la tabla 8.6.2.2.1(a) las áreas de protección y espaciamiento máximo de los rociadores con base en el tipo de construcción (con o sin obstrucciones) y en el tipo de riesgo de la edificación. Para la edificación del ejemplo que se considera de riesgo ligero y sin obstrucciones, la norma establece que el espaciamiento entre rociadores es de 4.6 m y 18.6 m² de área de protección. De acuerdo con esta información, se presenta el plano con la distribución de los rociadores junto con el área de influencia de cada uno para verificar que todos los espacios estén 100% cubiertos. Cabe recordar que normalmente la influencia de los rociadores es:
 
 <div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/distribucion%20oficinas%20la%20mundial-Model.jpg" width="1000px">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/distribucion%20oficinas%20la%20mundial-Model.jpg" width="1300px">
   </div>
 
 Como se puede observar en la imagen, se presenta la propuesta de ubicación de los rociadores cubriendo todos los espacios con las distancias establecidas en la norma NFPA 13.
+
+5.
 
 5. Definir dentro de la clasificación del riesgo según la NFPA 13, cuál se define de acuerdo con la ocupación del edificio a diseñar.
 
