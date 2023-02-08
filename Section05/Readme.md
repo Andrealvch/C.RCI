@@ -40,7 +40,7 @@ La norma NFPA 14 establece los requerimientos mínimos para la instalación de s
 
 <b> Sistemas Clase III: </b> debe proveer estaciones de manguera de 38 mm para suministrar agua de uso personal y conexión de 65 mm para un gran volumen de agua para uso de cuerpo de bomberos. 
 
-Cualquiera de estos sistemas deben ubicarse a no menos de 0.9 m o a más de 1.5 m sobre el piso, sin ningún tipo de obstrucción. 
+Cualquiera de estos sistemas deben ubicarse a no menos de 0.9 m o a más de 1.5 m sobre el piso, sin ningún tipo de obstrucción. Deben estar separados a máximo 30.5 m entre ellos y se instalan en las entradas de los corredores de evacuación.
 
 FALTA UBICACIÓN
 
