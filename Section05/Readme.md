@@ -42,7 +42,9 @@ La norma NFPA 14 establece los requerimientos mínimos para la instalación de s
 
 Cualquiera de estos sistemas deben ubicarse a no menos de 0.9 m o a más de 1.5 m sobre el piso, sin ningún tipo de obstrucción. Deben estar separados a máximo 30.5 m entre ellos y se instalan en las entradas de los corredores de evacuación.
 
-FALTA UBICACIÓN
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Gabinete.png" width="1300px">
+  </div>
 
 Es indispensable ubicar un espacio para instalar el sistema de operación y control de la red y elementos que complementan el sistema de extinción contra incendio. En este caso, en el plano arquitectónico se ubica el sistema de conexión de bomberos, gabinetes de inendio, extintores, panel de control de incendio y elementos de alarma de incendio. 
 
