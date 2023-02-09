@@ -46,13 +46,13 @@ Cualquiera de estos sistemas deben ubicarse a no menos de 0.9 m o a más de 1.5 
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Gabinete.png" width="1300px">
   </div>
 
-Es indispensable tener un espacio para instalar el sistema de operación y control de la red y elementos que complementan el sistema de extinción contra incendio. En este caso, en el plano arquitectónico se ubica el sistema de conexión de bomberos, gabinetes de incendio, extintores, panel de control de incendio y elementos de alarma de incendio en la recepción del primer piso. 
+6. Es indispensable tener un espacio para instalar el sistema de operación y control de la red y elementos que complementan el sistema de extinción contra incendio. En este caso, en el plano arquitectónico se ubica el sistema de conexión de bomberos, gabinetes de incendio, extintores, panel de control de incendio y elementos de alarma de incendio en la recepción del primer piso. 
 
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Centro%20de%20control.jpg" width="1300px">
+  </div>
 
-
-<b> FALTA IMAGEN </b> 
-
-7.	Realizar el predimensionamiento del sistema de la red contra incendio.
+7.	Para iniciar con los cálculos hidráulicos, es indispensable realizar un trazado aproximado de la red.
 
 
 
