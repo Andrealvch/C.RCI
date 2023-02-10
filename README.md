@@ -30,7 +30,7 @@ Recuerda que puedes realizar el curso con o sin acompañamiento del profesor y o
 - Aplicar la metodología de diseño establecido por la NFPA para los sostemas de redes contra incendio.
 
 <div align="center">
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EarXqN4J1ntPmd41vGEpF60B9YhoMcS4s0ZuA8XEiWUgDQ?e=Jdwp1L">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/ES1xHG_3pvlFkAHDuQw47aABbBnO7oT0TGeWqGIvwh9cfw?e=7yHhsr">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1050px">
     </a>
 </div>
