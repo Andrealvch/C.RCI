@@ -31,7 +31,7 @@ Recuerda que puedes realizar el curso con o sin acompañamiento del profesor y o
 
 <div align="center">
     <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EarXqN4J1ntPmd41vGEpF60B9YhoMcS4s0ZuA8XEiWUgDQ?e=Jdwp1L">
-        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1000px">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1050px">
     </a>
 </div>
 
