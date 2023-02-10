@@ -15,6 +15,9 @@ Las definiciones que se presentarán, son aplicadas a todas las secciones y son 
 
 En algunas secciones se establecerán las definiciones particulares para cada tipo de sistema de red contra incendio, ya que pueden varias según su terminología.
 
+### Definiciones NFPA 13
+
+
 ### Control de versiones 
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
