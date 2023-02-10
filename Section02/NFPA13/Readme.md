@@ -56,6 +56,16 @@ En la NFPA 13 se clasifican los rociadores de acuerdo con los rangos de temperat
 
 En módulos posteriores se verán a detalle los tipos de rociadores existentes.
 
+La norma establece tres tipos de riesgos que se clasifican en:
+
+1. Ocupación de Riesgo Ligero. Dentro de este grupo clasifican las edificaciones con ocupación de iglesia, instituciones educativas, museos, residencias, oficinas teatros o centros de convenciones o a fines.
+
+2. Ocupación de Riesgo Ordinario. Este riesgo tiene dos subgrupos, en el grupo 1 se caracterizan las edificaciones que almacenen mercancía a una altura máxima de 2.4 m de alto y su índice de calor sea moderado. Algunos ejemplos son panaderías, fábricas de bebidas, de manufactura, plantas eléctricas o cuarto de maquinas.
+
+En el caso del subgrupo 2, se caracterizan las edificaciones que almacenan mercancías a no más de 3.7 m de altura y su índice de calor sea moderado.
+
+3. Ocupación de Riesgo Extra.
+
 ### Control de versiones 
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
