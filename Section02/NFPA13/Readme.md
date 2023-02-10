@@ -66,11 +66,26 @@ La norma establece tres tipos de riesgos que se clasifican en:
 
 1. Ocupación de Riesgo Ligero. Dentro de este grupo clasifican las edificaciones con ocupación de iglesia, instituciones educativas, museos, residencias, oficinas teatros o centros de convenciones o a fines.
 
-2. Ocupación de Riesgo Ordinario. Este riesgo tiene dos subgrupos, en el grupo 1 se caracterizan las edificaciones que almacenen mercancía a una altura máxima de 2.4 m de alto y su índice de calor sea moderado. Algunos ejemplos son panaderías, fábricas de bebidas, de manufactura, plantas eléctricas o cuarto de maquinas.
+2. Ocupación de Riesgo Ordinario. Este riesgo tiene dos subgrupos, en el grupo 1 se caracterizan las edificaciones que almacenen mercancía a una altura máxima de 2.4 m de alto y su índice de calor sea moderado. Algunos ejemplos son panaderías, fábricas de bebidas, de manufactura, plantas eléctricas o cuarto de maquinas. En el caso del subgrupo 2, se caracterizan las edificaciones que almacenan mercancías a no más de 3.7 m de altura y su índice de calor sea moderado.
 
-En el caso del subgrupo 2, se caracterizan las edificaciones que almacenan mercancías a no más de 3.7 m de altura y su índice de calor sea moderado.
+3. Ocupación de Riesgo Extra. Se divide en dos grupos. El grupo 1 clasifica las edificaciones que almacenan altas cantidades de elementos con combustibilidad grande y hay presencia de polvos y/o pelusas, que pueden producir liberación de calor. El grupo 2 clasifican las ocupaciones con cantidades moderadas y altas de líquidos inflamables o combustibles. 
 
-3. Ocupación de Riesgo Extra.
+El capítulo 11 y 22 de la NFAPA 13, establece los párametros mínimos de diseño con base en la ocupación de la ediicación y su tipo de riesgo. 
+
+Los métodos de cálculo que describe la Norma son el método de tablas de cálculo y el método de Densidad/Área.  
+
+Los requisitos para el abastecimiento de agua para sistemas de rociadores por tablas de cálculo son:
+
+| Clasificación de la ocupación    | Presión residual mínima requerida (psi)                               | Flujo aceptable en la base de la tubería vertical (gpm)                                      | Duración (minutos) |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+| Riesgo ligero  | 15 | 500-750 | 30-60  |
+| Riesgo ordinario | 20 | 850-1500 | 60-90 |
+
+Los requisitos de abastecimiento de agua para sistemas de rociadores por densidad/área son:
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Curvas%20D-A.png" width="800px">
+</div>
 
 ### Control de versiones 
 
