@@ -106,6 +106,12 @@ La distancia mínima entre rociadores debe ser de 1.8 m entre centros.
 
 Si el rociador para el diseño es diferente al mencionado en la tabla anterior por favor dirigirse a la NFPA 13, capítulo 10 y 11.
 
+Clasificación de rociadores tomada de la NFPA 13, Tabla 6.2.5.1 Rangos de Temperatura, Clasificaicones y Códigos de Color
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Rociadores.PNG" width="800px">
+</div>
+
 ### Control de versiones 
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
