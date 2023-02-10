@@ -10,6 +10,12 @@ La norma establece los parámetros mínimos para el diseño e instalación de si
 - Tuberías.
 - Válvulas.
 
+<div align="center">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/Ef16i0W5Dx5HjfuEcW8abDgBLWZLhQUC6WkyOGNHNbh1ow?e=Rrg6Wr">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1050px">
+    </a>
+</div>
+
 Todas las tuberías fabricadas que se utilicen en este sistema deben cumplir con la siguiente normatividad dependiendo del tipo:
 
 |Materiales y dimensiones| Norma|
