@@ -45,6 +45,26 @@ voz/alarma en edificios
 
 (a) Sistemas de comunicaciones de emergencia en edificio
 
+La NFPA 72 describe los dispositivos de inciio y aparatos de notificaicón más utilizados en el mercado y con los cuales deben cumplir las instalaciones de sistemas de redes contra incendio. Estos elementos son:
+
+### Detectores de incendio
+
+Los detectores de calor de tipo puntual deben incluir en sus instrucciones de intalación datos técnicos y documentación listada de la temperatura de funcionamiento e índice de tiempo de respuesta. La clasificación definida por la norma para estos dispositivos es:
+
+'Tomado de la NFPA 72 Tabla 17.6.2.1 Clasificación de temperatura y codificación por color para detectores de incendio sensores de calor'
+
+| Clasificación de temperatura    | Rango de temperatura nominal (°F)                                                         | Rango de temperatura de cieloraso (°F)                                    | Codificación de color |
+|------------|:---------------------------------------------------------------------|--------------------------------------------|:-----:|
+| Baja  | 100-134 | 80 | Sin color  |
+| Normal | 135-174 |  115 |   Sin color   |
+|Intermedia | 175-249 | 155| Blanco|
+|Elevada|250-324|230|Azul|
+|Muy elevada| 325-399|305|Rojo |
+|Extra elevada|400-499|380|Verde|
+|Ultra elevada|500-575|480|Naranja|
+
+Los detectores de incendio sensores de calor de tipo puntual de temperatura fija o de tasa compensada deben esta marcados con un código de color, de acuerdo con lo especificado en la Tabla 17.6.2.1.
+
 ### Control de versiones 
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
