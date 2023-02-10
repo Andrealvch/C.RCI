@@ -112,6 +112,12 @@ Clasificación de rociadores tomada de la NFPA 13, Tabla 6.2.5.1 Rangos de Tempe
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Rociadores.PNG" width="800px">
 </div>
 
+Área de acción de los rociadores estándar para riesgo ligero con base en la NFPA 13 Tabla 8.6.2.2.1(a) Áreas de Protección y Espaciamiento Máximo para Riesgo Ligero.
+
+<div align="center">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section04/.graph/Clasificaci%C3%B3n.JPG" width="800px">
+</div>
+
 ### Control de versiones 
 
 | Versión    | Descripción                                                          | Autor                                      | Horas |
