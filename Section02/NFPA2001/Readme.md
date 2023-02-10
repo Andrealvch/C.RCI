@@ -52,6 +52,6 @@ De acuerdo con la NFPA 2001, ítem 4.2.1.1, “las tuberías deberán ser de mat
 |  | |  |   |
 |  | |   |      |
 
-| [Anterior](../NFPA750) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../../Section03/NFPA13) |
+| [Anterior](../NFPA750) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../../Section03/Readme.md) |
 |------|:-----------|-------------------|:--------:|
 
