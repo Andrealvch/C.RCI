@@ -17,6 +17,26 @@ En algunas secciones se establecerán las definiciones particulares para cada ti
 
 ### Definiciones NFPA 13
 
+**1. Accesorio.** Elemento complemetario que permite que las tuberías para servicio privado contra incendios desempeñen su función prevista. 
+
+**2. Inspección y pruebas automatizadas.** Realización de inspecciones y pruebas a una distancia del sistema o componente que está siendo inspeccionado o probado, mediante el uso de equipos o dispositivos electrónicos instalados para ese próposito. 
+
+**3. Válvula de retención.** Válvula que permite el flujo en una dirección solamente. 
+
+**4. Válvula de control.** Válvula que controla el flujo hacia los sistemas y dispositivos de protección contra incendios a base de agua.
+
+**5. Control de incendios.** Acción de limitar la demensión de un incendio mediante la distribución de agua, manera de desminuir la tasa de liberación de alor y humedecer previamente los combustibles adyacentes, controlando al mismo tiempo las temperaturas de gases en el cielorraso con el fin de evitar daños estructurales.
+
+**6. Conexión del cuerpo de bomberos.** Una conexión a través de la cual el cuerpo de bomberos puede bombear un volumen adicional de agua al sistema de rociadores, de montantes o a otros sistemas de protección contra incendios a base de agua, que proveen agua para extinción de incendios con el fin de complementar los suministros de agua existentes.
+
+**7. Bomba contra incendios.** Una bomba que proporciona flujo líquido y presión dedicados a la protección contra incendios.
+
+**8. Hidrante.** Conexión exterior mediante válvula a un sistema de suministro de agua que provee las conexiones para mangueras.
+
+**9. Válvula indicadora.** Válvula que tiene componentes que proveen la posición operativa de la válvula, abierta o cerrada. 
+
+**10. 
+
 
 ### Control de versiones 
 
