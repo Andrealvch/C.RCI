@@ -1,6 +1,16 @@
-## Norma para Extintores Portátiles Contra Incendios (NFPA 10)
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+# Norma para Extintores Portátiles Contra Incendios (NFPA 10)
 
-### Generalidades y clasificación
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br> Andrea Liseth Vasco Chivatá 
+<br>  Profesor del Centro de Estudios Hidráulicos 
+<br>  andrea.vasco@escuelaing.edu.co 
+</div>
+
+<br>
+
+## Generalidades y clasificación
 Por definición los extintores son cilindros portátiles con el fin de apagar pequeños incendios que se producen evitando que se propaguen y sean de mayor escala. La norma para extintores desarrollada por la NFPA, Norma para Extintores Portátiles Contra Incendio (NFPA 10), como guía para la selección, compra, instalación, aprovisionamiento, listado, diseño y mantenimiento de extintores de incendio, hace referencia a las condiciones previas, en construcción y operación de las instalaciones que requieren el uso de exintores de acuerdo con su actividad principal.
 
 La NFPA 10 clasifica los extintores portatiles con base en el tipo incendio y el riesgo que se pueda producir en un espacio, indica como debe ser la instalación, la inspección, el mantenimiento, la recarga y la prueba hidrostática de cada tipo de extintor. A continuación, se indica la clasificación de incendios determinado por la NFPA 10. Capítulo 5.2. Clasificación de incendios, el color e identificaición en las etiquetas. 
@@ -33,7 +43,7 @@ De acuerdo con la clasificación de incendios mencionada anteriormente, la norma
 
 - Los extintores recomendados para el tipo de riesgo Clase K, pueden contener polvo químico seco o agentes humedos, soluciones acuosas de acetato de potasio, carbono de potasio o citrato de potasio.
 
-### Distribución en espacios 
+## Distribución en espacios 
 
 La norma da recomendaciones generales para la ubicación e instalación de los rociadores en las que destacan: 
 
@@ -51,7 +61,7 @@ La norma da recomendaciones generales para la ubicación e instalación de los r
 
 Especificamente para cada tipo de extintor de acuerdo con su clase de riesgo, la norma establece las áreas o distancias de ubicación de la siguiente manera:
 
-#### Clase A
+### Clase A
 
 | Criterio | Ocupación de riesgo leve | Ocupación de riesgo ordinario | Ocupación de riesgo extraordinario |
 |:-------|:-----------------|:----------|:------|
@@ -60,7 +70,7 @@ Especificamente para cada tipo de extintor de acuerdo con su clase de riesgo, la
 | Área máxima de piso por extintor | 11250 pies²| 11250 pies²| 11250 pies² |
 | Distancia máxima de recorrido hasta el extintor | 75 pies| 75 pies| 75 pies |
 
-#### Clase B
+### Clase B
 
 | Criterio | Ocupación de riesgo leve | Ocupación de riesgo ordinario | Ocupación de riesgo extraordinario |
 |:-------|:-----------------|:----------|:------|
@@ -68,19 +78,19 @@ Especificamente para cada tipo de extintor de acuerdo con su clase de riesgo, la
 | Distancia máxima a recorrer hasta el extintor (pies) | 30/50| 30/50 | 30/50 |
 | Metros | 9.15/15.25 | 9.15/15.25 | 9.15/15.25 |
 
-#### Clase C
+### Clase C
 
 Es necesario instalar este tipo de extintores donde haya equipos eléctricos energizados o puede ir acompañado de extintores tipo clase A o B dependiendo de las características del fuego y el espacio.
 
-#### Clase D
+### Clase D
 
 Deben estar distanciados a máximo 75 pies (23 m). Básicamente eben estar ubicados en lugares donde se generen polvos de metal combustible, escamas, virutas, astillas o similares.
 
-#### Clase K 
+### Clase K 
 
 La distancia máxima en el recorrido debe ser máximo de 9,15 m en donde existe potencial peligroso de incendio por liquidos combustibles para cocción de alimentos. 
 
-### Inspección de extintores
+## Inspección de extintores
 
 La norma NFPA 10 en el capitulo 7 establece que la inspección a los extintores de incendio deben realizarse de forma visual por lo menos una vez al mes, realizando un check list con los aspectos más relevantes que son descritos a continuación:
 
@@ -96,7 +106,7 @@ La norma NFPA 10 en el capitulo 7 establece que la inspección a los extintores 
 
 En el momento en que se detecte alguna anomalia en la inspección realizada se deben realizar las acciones correctivas en el menor tiempo posible. Es importante registrar las revisiones en una tarjeta junto al extintor o en un sistema de monitoreo electrónico. 
 
-### Mantenimiento de extintores
+## Mantenimiento de extintores
 
 Es común recibir un manual de mantenimiento preventivo de los fabricantes y distribuidores de extintores, dependiendo del tipo. Sin embargo, la norma establece una cantidad recomendada de tiempo en el mantenimiento interno y externo y de sistemas de monitoreo electrónico, definido de la siguiente manera:
 
@@ -124,3 +134,10 @@ Es común recibir un manual de mantenimiento preventivo de los fabricantes y dis
 
 | [Anterior](../Normas) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Señalización) |
 |------|:-----------|-------------------|:--------:|
+
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL?&" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../../.icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+               
