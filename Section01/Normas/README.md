@@ -1,4 +1,16 @@
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
 ## Normas utilizadas para el diseño de los sistemas de red contra incendio
+
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br> Andrea Liseth Vasco Chivatá 
+<br>  Profesor del Centro de Estudios Hidráulicos 
+<br>  andrea.vasco@escuelaing.edu.co 
+</div>
+
+<br>
+
 Keywords: `NSR10` `NFPA`
 
 La National Fire Protection Association (NFPA) es la organización encargada de crear y actualizar las normas para la protección contra incendio. Especifica los requerimientos de capacitaciones al personal que diseñe, construya y opere, de la instalación de los sistemas y del uso de los medios de protección. Los estándares presentados por esta organización 
@@ -135,3 +147,11 @@ Las edificaciones que clasifican en este grupo on las ocupadas por carácter tem
 
 | [Anterior](../Definiciones) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../Extintores) |
 |------|:-----------|-------------------|:--------:|
+
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL?&" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../../.icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+               
+
