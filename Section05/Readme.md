@@ -1,16 +1,29 @@
-## Ejemplo diseño sistema contra incendio a base de agua 
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
 
-En este módulo se presenta un ejercicio práctico de la red contra incendio a base de agua en una edificación siguiendo los lineamientos de diseño estipulados en la NFPA 13 (2019). 
+# Ejemplo diseño sistema contra incendio a base de agua 
+
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br> Andrea Liseth Vasco Chivatá 
+<br>  Profesor del Centro de Estudios Hidráulicos 
+<br>  andrea.vasco@escuelaing.edu.co 
+</div>
+
+<br> En este módulo se presenta un ejercicio práctico de la red contra incendio a base de agua en una edificación siguiendo los lineamientos de diseño estipulados en la NFPA 13 (2019). 
 
 El diseño para construcción de un sistema de red contra incendio generalmente inicia con la elaboración de un diseño conceptual, el cual, brinda una aproximación del sistema que se desea implantar en el área de estudio, una vez aprobado este diseño, se realizan los detalles para construcción de los elementos particulares del sistema que garantizan el adecuado funcionamiento de la red.
 
+<br>
+
 <div align="center">
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/EaJDH25EaUtEnBvVR6ckMbcBBFiypGtLp9jHg9ugpuDQbg?e=vx4ZrP">
-        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1050px">
+    <a href="https://youtu.be/u9fXAkoc93o">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
-### Diseño conceptual del sistema de red contra incendio en la edificación
+<br>
+
+## Diseño conceptual del sistema de red contra incendio en la edificación
 
 1.	Reconocer el área de estudio identificando el acceso a los servicios que permiten la instalación interna del sistema. Para este ejercicio se toma como base la implantación arquitéctonica de un edificio de 3 pisos, con una distribución tipo por piso. Cada piso cuenta con 16 espacios de oficinas, sala de reuniones, 3 bodegas, 1 comedor, 2 baños para mujeres y 2 para hombres, cuarto de aseo, sala con 8 computadores, recepción y showroom. el proyecto esta ubicado en la ciudad de Bogotá. 
 
@@ -87,3 +100,9 @@ Para este ejemplo, el proyecto no cuenta con muros cortafuegos y por ende la met
 3.	Modelar hidráulicamente la ruta crítica del sistema
 4.	Elaborar las memorias de cálculo y los planos para construcción
 5.	Elaborar los documentos técnicos que permitan una operación continua del sistema especificando el detalle constructivo de cada uno de los elementos a implementar en la zona de estudio
+
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL?&" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../.icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
