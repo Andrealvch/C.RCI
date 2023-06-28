@@ -12,12 +12,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/REND_CAR_AND.png" width="1000px">
+  <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INTRODUCCION_CURSO.PNG" width="1000px">
 </div>
 
 <br>
 
-### Introducción
+# Introducción
 
 Bienvenidos al curso virtual básico de sistemas de redes contra incendio ofrecido por la Universidad Escuela Colombiana de Ingeniería Julio Garavito. En el desarrollo del curso encontrarás videos que orientan el trabajo de cada uno de los módulos y sus respectivas actividades. En cada actividad encontrarás la información necesaria para cumplir con cada uno de los objetivos propuestos. 
 
@@ -27,7 +27,7 @@ De acuerdo con la National Fire Protection Association (NFPA), organización que
 
 Recuerda que puedes realizar el curso con o sin acompañamiento del profesor y obtener el certificado. 
 
-### Objetivos 
+# Objetivos 
 
 - Familiarizarse con la terminología utilizada mundialmente por la organización fundada en Estados Unidos, la Asociación Nacional de Protección Contra el Fuego.
 - Crear herramientas para facilitar la compresión de las normas NFPA para los sistemas de redes contra incendio.
@@ -39,9 +39,9 @@ Recuerda que puedes realizar el curso con o sin acompañamiento del profesor y o
     </a>
 </div>
 
-## Contenido 
+# Contenido 
 
-### Sección 1 - conceptos generales y complementos
+## Sección 1 - conceptos generales y complementos
 
 En esta sección se presentan las definiciones principales necesarias para el curso, tipos de redes y sistemas complementarios para la red contra incendio como extintores, señalización y automatización. 
 
@@ -53,7 +53,7 @@ En esta sección se presentan las definiciones principales necesarias para el cu
 | [Extintores (NFPA 10)](Section01/Extintores)                                                                                                               | Se aborda la Norma para Extintores Portátiles Contra Incendio - NFPA 10, indicando las estipulaciones previstas para la selección, instalación, inspección, mantenimiento y pruebas de estos equipos.                                                   |
 | [Señalización (ISO 7010)](Section01/Señalización)                                                                                                            | La norma técnica ISO 7010 define los símbolos gráficos sobre las señales de peligro y advertencia, incluyendo las salidas de emergencia y las señales de seguridad.                                                                                     |
 
-# Sección 2 - Sistemas de redes, generalidades y aplicación
+## Sección 2 - Sistemas de redes, generalidades y aplicación
 
 [En esta sección se explicarán los diferentes sistemas de redes contra incendio, presentando las normas generales para cada uno, sus generalidades, los compuestos principales, los componentes de la red y los lugares de aplicación.](Section02/Readme.md)
 
@@ -75,7 +75,7 @@ En esta sección se presentan las definiciones principales necesarias para el cu
 | [Estándar sobre Sistemas de Extinción mediante Agentes Limpios - NFPA 2001](Section02/NFPA2001)                                        | Se especifican las características y generalidades principales a tener en cuenta para el diseño de sistema con agentes limpios, sus componentes, usos y aplicaciones                 |
 
 
-# Sección 3 - Diseño de las redes
+## Sección 3 - Diseño de las redes
 
 Se presenta el diagrama con el paso a paso del diseño para cada tipo de red con base en su normativa, siempre y cuando este descrita. Para algunos sistemas, el diseño depende del fabricante, tal como lo mencionan las normas vistas en el módulo anterior.
 
@@ -84,14 +84,14 @@ Se presenta el diagrama con el paso a paso del diseño para cada tipo de red con
 | [NFPA 13](Section03/NFPA13)           | Para diseñar el sistema de red contra incendio de agua, se utiliza la norma NFPA 13 en el que muestra el paso a paso con las condiciones iniciales para luego realizar el cálculo hidráulico, trazado de la red en planta y de destalles. |
 | [NFPA 2001](Section03/NFPA2001)         |  Para diseñar el sistema de red contra incendio mediante agentes limpios, se utiliza la norma NFPA 2001 en el que muestra el paso a paso con las condiciones iniciales, para luego realizar el cálculo hidráulico, trazado de la red en planta y de detalles.                                                                                                                                                                                                                                         |
 
-# Sección 4 - Elementos y sistemas complementarios
+## Sección 4 - Elementos y sistemas complementarios
 
 | Actividad         | Alcance                                                                                                                                                                                                                                   |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Rociadores](Section04/Rociadores)| Descripción de cada tipo de Rociador|
 |[Código  Nacional de alarmas de incendio y señalización (NFPA 72)](Section04/Automatizacion)| Descripción breve de el sistema de alarma y señalización que complementa los sistemas contra incendio|
 
-# Sección 5 - Ejemplo diseño de sistema de red contra incendio a base de agua 
+## Sección 5 - Ejemplo diseño de sistema de red contra incendio a base de agua 
 
 [Ejemplo diseño (NFPA 13)](Section05/Readme.md)
 
