@@ -11,8 +11,12 @@
 
 <br>
 
+
+
 <div align="center">
-  <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INTRODUCCION_CURSO.PNG" width="1000px">
+    <a href="https://youtu.be/bfx8pnM8GEw">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INTRODUCCION_CURSO.PNG" width="800px">
+    </a>
 </div>
 
 <br>
@@ -28,16 +32,12 @@ De acuerdo con la National Fire Protection Association (NFPA), organización que
 Recuerda que puedes realizar el curso con o sin acompañamiento del profesor y obtener el certificado. 
 
 # Objetivos 
+El objetivo general de este curso es el estudio de la norma aplicable NFPA para sistemas de red contra incendi con base en los requerimientos constructivos del proyecto diseñado. 
 
 - Familiarizarse con la terminología utilizada mundialmente por la organización fundada en Estados Unidos, la Asociación Nacional de Protección Contra el Fuego.
 - Crear herramientas para facilitar la compresión de las normas NFPA para los sistemas de redes contra incendio.
 - Aplicar la metodología de diseño establecido por la NFPA para los sostemas de redes contra incendio.
-
-<div align="center">
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/ES1xHG_3pvlFkAHDuQw47aABbBnO7oT0TGeWqGIvwh9cfw?e=7yHhsr">
-        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1050px">
-    </a>
-</div>
+- Análisis de los resultados obtenidos durante el ejemplo. 
 
 # Contenido 
 
@@ -95,7 +95,16 @@ Se presenta el diagrama con el paso a paso del diseño para cada tipo de red con
 
 [Ejemplo diseño (NFPA 13)](Section05/Readme.md)
 
+# Material del curso por módulos. Notas aclaratorias
 
+Tal como se describió anteriormente, se recomienda que el estudiante revise, estudie y analice la información contenida en cada actividad, siguiendo el orden definido en el contenido programático. En el 
+caso que el estudiante requiera la certificación del curso, este deberá realizar las actividades y presentarlas al tutor siguiendo las instrucciones del caso, en los tiempos establecidos.
+
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL?&" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=".icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
                
 
  
