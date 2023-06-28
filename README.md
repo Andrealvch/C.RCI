@@ -4,7 +4,9 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>Andrea Liseth Vasco Chivatá, andrea.vasco@escuelaing.edu.co </i>
+<br> Andrea Liseth Vasco Chivatá 
+<br>  Profesor del Centro de Estudios Hidráulicos 
+<br>  andrea.vasco@escuelaing.edu.co 
 </div>
 
 <br>
