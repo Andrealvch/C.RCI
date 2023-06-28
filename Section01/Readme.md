@@ -11,8 +11,6 @@
 
 <br>
 
-
-
 <div align="center">
     <a href="https://youtu.be/ipDHgFZexos">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
