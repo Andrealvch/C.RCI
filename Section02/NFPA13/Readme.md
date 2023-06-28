@@ -1,20 +1,41 @@
-## Norma para la Instalación de Sistemas de Rociadores - NFPA 13
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+# Norma para la Instalación de Sistemas de Rociadores - NFPA 13
+
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br> Andrea Liseth Vasco Chivatá 
+<br>  Profesor del Centro de Estudios Hidráulicos 
+<br>  andrea.vasco@escuelaing.edu.co 
+</div>
 
 ´NFPA´
 
-La norma establece los parámetros mínimos para el diseño e instalación de sistemas de rociadores de incendio, con el suministro de la red en agua potable. Contiene varios enfoques con alternativas de diseño y opciones de componentes. Es necesario aplicar la norma para definir:
+La NFPA 13 (National Fire Protection Association 13) es una norma reconocida internacionalmente que establece los requisitos para el diseño, instalación y mantenimiento de sistemas de rociadores automáticos contra incendios. Es una de las normas más importantes y ampliamente adoptadas en el campo de la protección contra incendios. Es necesario aplicar la norma para definir:
 
 - Características y adecuación de los suministros de agua.
 - Rociadores.
 - Accesorios.
 - Tuberías.
 - Válvulas.
+  
+<br>
 
 <div align="center">
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andrea_vasco_escuelaing_edu_co/Ef16i0W5Dx5HjfuEcW8abDgBLWZLhQUC6WkyOGNHNbh1ow?e=Rrg6Wr">
-        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/Presentaci%C3%B3n1.png" width="1050px">
+    <a href="https://youtu.be/glfgF4SdI_o">
+        <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
+
+<br>
+
+La NFPA 13 abarca una amplia gama de aspectos relacionados con los sistemas de rociadores, incluyendo la clasificación de riesgos de incendio, el diseño de los sistemas, los requisitos de instalación, los criterios de ubicación y espaciamiento de los rociadores, los materiales y componentes utilizados, los criterios de mantenimiento y pruebas, y mucho más.
+
+El objetivo principal de la NFPA 13 es proporcionar directrices claras y específicas para garantizar que los sistemas de rociadores automáticos sean efectivos y confiables en la protección contra incendios. La norma tiene en cuenta factores como la velocidad de respuesta necesaria, la distribución adecuada de los rociadores, la cantidad y tipo de agua requerida, y la resistencia al fuego de los materiales utilizados en la construcción.
+
+La NFPA 13 es utilizada por diseñadores, ingenieros, instaladores, inspectores, propietarios de edificios y autoridades reguladoras para asegurar que los sistemas de rociadores automáticos cumplan con los estándares de seguridad establecidos. La norma se actualiza periódicamente para mantenerse al día con los avances tecnológicos y las mejores prácticas en la protección contra incendios.
+
+Es importante destacar que la aplicación de la NFPA 13 puede variar según las regulaciones locales y los códigos de construcción específicos de cada jurisdicción. Por lo tanto, es fundamental consultar los requisitos locales y trabajar con profesionales capacitados en protección contra incendios para garantizar el cumplimiento de las normas aplicables.
 
 Todas las tuberías fabricadas que se utilicen en este sistema deben cumplir con la siguiente normatividad dependiendo del tipo:
 
@@ -94,6 +115,14 @@ Los requisitos de abastecimiento de agua para sistemas de rociadores por densida
 |  | |  |   |
 |  | |   |      |
 
+
+
 | [Anterior](../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora](https://github.com/Andrealvch/C.RCI/discussions/1) | [Siguiente](../NFPA11) |
 |------|:-----------|-------------------|:--------:|
 
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL?&" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../../.icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+               
