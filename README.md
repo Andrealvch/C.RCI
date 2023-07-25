@@ -14,7 +14,7 @@
 
 
 <div align="center">
-    <a href="https://youtu.be/bfx8pnM8GEw">
+    <a href="https://youtu.be/Zv-WXSdbSyY">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>
