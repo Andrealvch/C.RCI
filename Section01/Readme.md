@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-    <a href="https://youtu.be/ipDHgFZexos">
+    <a href="https://youtu.be/m-1UvwrB_wE">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
