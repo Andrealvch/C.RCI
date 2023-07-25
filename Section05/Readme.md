@@ -16,7 +16,7 @@ El diseño para construcción de un sistema de red contra incendio generalmente 
 <br>
 
 <div align="center">
-    <a href="https://youtu.be/u9fXAkoc93o">
+    <a href="https://youtu.be/X0Btomi-3Mo">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
