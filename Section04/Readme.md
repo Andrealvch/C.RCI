@@ -16,7 +16,7 @@ Adicionalmente, encontrarán información relevante para identificar los rociado
 <br>
 
 <div align="center">
-    <a href="https://youtu.be/B2IZFMAYJPs">
+    <a href="https://youtu.be/hJ0TH_zVP3Y">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
