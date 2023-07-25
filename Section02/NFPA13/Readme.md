@@ -22,7 +22,7 @@ La NFPA 13 (National Fire Protection Association 13) es una norma reconocida int
 <br>
 
 <div align="center">
-    <a href="https://youtu.be/glfgF4SdI_o">
+    <a href="https://youtu.be/1FOHAkqBLr4">
         <img src="https://github.com/Andrealvch/C.RCI/blob/main/.graph/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
