@@ -83,7 +83,7 @@ Cualquiera de estos sistemas deben ubicarse a no menos de 0.9 m o a más de 1.5 
 
 A. Para determinar la demanda de agua la norma específica el método de tuberías por tablas o del cálculo hidráulico, establecido en el capitulo 11.2.2 y 11.2.3 respectivamente de la NFPA 13. Para este caso se utiliza el método de cálculo hidráulico, definiendo que el riesgo de la eidficación por su uso es Riesgo Ordinario 1. 
 
-Para el método descrito, primero se debe revisar la gráfica de curvas Densidad/Área presentada en la NFPA 13 (Figura 11.2.3.1.1 Curvas Densidad/Área.).
+Para el método descrito, primero se debe revisar la gráfica de curvas Densidad/Área presentada en la NFPA 13 (Figura 19.3.3.1.1 Curvas Densidad/Área.).
 
 <div align="center">
   <img src="https://github.com/Andrealvch/C.RCI/blob/main/Section05/.graph/Curvas%20D-A.png" width="1300px">
@@ -91,12 +91,10 @@ Para el método descrito, primero se debe revisar la gráfica de curvas Densidad
 
 Se define una densidad de agua de 0.15 GPM/ft2 para Riego Ordinario 1, para un área de operación del rociador de 1500 ft2.
 
-B. 
-
-Seleccionar el área de diseño: se recomienda verificar con el grupo de coordinación si el proyecto cuenta con muros cortafuegos o no y así poder definir l metodología de diseño que más se ajusta a las carcaterísticas del proyecto. 
+B. Seleccionar el área de diseño: se recomienda verificar con el grupo de coordinación si el proyecto cuenta con muros cortafuegos o no y así poder definir la metodología de diseño que más se ajusta a las carcaterísticas del proyecto. 
 Para este ejemplo, el proyecto no cuenta con muros cortafuegos y por ende la metodología que se aplicará es área-densidad. Tal como fue visto en la sección NFPA 13 sección 22, 
 
-2.	De acuerdo con la gráfica Dimensionar el sistema de red contra incendio
+2.	De acuerdo con la gráfica dimensionar el sistema de red contra incendio
 3.	Modelar hidráulicamente la ruta crítica del sistema
 4.	Elaborar las memorias de cálculo y los planos para construcción
 5.	Elaborar los documentos técnicos que permitan una operación continua del sistema especificando el detalle constructivo de cada uno de los elementos a implementar en la zona de estudio
