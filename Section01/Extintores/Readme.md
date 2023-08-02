@@ -85,7 +85,7 @@ Es necesario instalar este tipo de extintores donde haya equipos eléctricos ene
 
 ### Clase D
 
-Deben estar distanciados a máximo 75 pies (23 m). Básicamente eben estar ubicados en lugares donde se generen polvos de metal combustible, escamas, virutas, astillas o similares.
+Deben estar distanciados a máximo 75 pies (23 m). Básicamente deben estar ubicados en lugares donde se generen polvos de metal combustible, escamas, virutas, astillas o similares.
 
 ### Clase K 
 
